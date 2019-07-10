@@ -1132,7 +1132,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 40,
@@ -1152,7 +1152,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 65,
@@ -1253,7 +1253,7 @@
       "entry": "",
       "type": [
         "water",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 90,
@@ -1273,7 +1273,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 25,
@@ -1293,7 +1293,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 40,
@@ -1313,7 +1313,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 55,
@@ -1333,7 +1333,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 70,
@@ -1353,7 +1353,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 80,
@@ -1373,7 +1373,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 90,
@@ -1498,7 +1498,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "ground"
       ],
       "base": {
@@ -1519,7 +1519,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "ground"
       ],
       "base": {
@@ -1540,7 +1540,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "ground"
       ],
       "base": {
@@ -1602,7 +1602,7 @@
       "entry": "",
       "type": [
         "water",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 90,
@@ -1623,7 +1623,7 @@
       "entry": "",
       "type": [
         "water",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 95,
@@ -1769,7 +1769,7 @@
       "entry": "",
       "type": [
         "water",
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 90,
@@ -1850,7 +1850,7 @@
       "entry": "",
       "type": [
         "water",
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 50,
@@ -1870,7 +1870,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "poison"
       ],
       "base": {
@@ -1891,7 +1891,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "poison"
       ],
       "base": {
@@ -1912,7 +1912,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "poison"
       ],
       "base": {
@@ -1933,7 +1933,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "ground"
       ],
       "base": {
@@ -1954,7 +1954,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 60,
@@ -1974,7 +1974,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 85,
@@ -2075,7 +2075,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 60,
@@ -2096,7 +2096,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 95,
@@ -2156,7 +2156,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 50,
@@ -2176,7 +2176,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 50,
@@ -2257,7 +2257,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 80,
@@ -2278,7 +2278,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 105,
@@ -2459,7 +2459,7 @@
       "entry": "",
       "type": [
         "water",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 60,
@@ -2479,7 +2479,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "fairy"
       ],
       "base": {
@@ -2521,8 +2521,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
-        "Psychic"
+        "ice",
+        "psychic"
       ],
       "base": {
         "hp": 65,
@@ -2664,7 +2664,7 @@
       "entry": "",
       "type": [
         "water",
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 130,
@@ -2804,7 +2804,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "water"
       ],
       "base": {
@@ -2825,7 +2825,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "water"
       ],
       "base": {
@@ -2846,7 +2846,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "water"
       ],
       "base": {
@@ -2867,7 +2867,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "water"
       ],
       "base": {
@@ -2888,7 +2888,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "flying"
       ],
       "base": {
@@ -2929,7 +2929,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
+        "ice",
         "flying"
       ],
       "base": {
@@ -2992,7 +2992,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 41,
@@ -3007,12 +3007,12 @@
     },
     {
       "id": 148,
-      "name": "Dragonair",
+      "name": "dragonair",
       "height": "",
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 61,
@@ -3027,12 +3027,12 @@
     },
     {
       "id": 149,
-      "name": "Dragonite",
+      "name": "dragonite",
       "height": "",
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "flying"
       ],
       "base": {
@@ -3053,7 +3053,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 106,
@@ -3073,7 +3073,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 100,
@@ -3604,7 +3604,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "flying"
       ],
       "base": {
@@ -3625,7 +3625,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "flying"
       ],
       "base": {
@@ -3768,7 +3768,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 70,
@@ -3994,7 +3994,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 65,
@@ -4056,7 +4056,7 @@
       "entry": "",
       "type": [
         "water",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 95,
@@ -4076,7 +4076,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 60,
@@ -4096,7 +4096,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 48,
@@ -4116,7 +4116,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 190,
@@ -4137,7 +4137,7 @@
       "entry": "",
       "type": [
         "normal",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 70,
@@ -4343,7 +4343,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 20,
@@ -4364,7 +4364,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 80,
@@ -4385,7 +4385,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 55,
@@ -4466,7 +4466,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 60,
@@ -4486,7 +4486,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
+        "ice",
         "ground"
       ],
       "base": {
@@ -4507,7 +4507,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
+        "ice",
         "ground"
       ],
       "base": {
@@ -4529,7 +4529,7 @@
       "entry": "",
       "type": [
         "water",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 65,
@@ -4589,7 +4589,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
+        "ice",
         "flying"
       ],
       "base": {
@@ -4695,7 +4695,7 @@
       "entry": "",
       "type": [
         "water",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 75,
@@ -4815,7 +4815,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 35,
@@ -4835,7 +4835,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 50,
@@ -4855,8 +4855,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
-        "Psychic"
+        "ice",
+        "psychic"
       ],
       "base": {
         "hp": 45,
@@ -5016,7 +5016,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "ground"
       ],
       "base": {
@@ -5037,7 +5037,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "ground"
       ],
       "base": {
@@ -5058,7 +5058,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "Dark"
       ],
       "base": {
@@ -5079,7 +5079,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "flying"
       ],
       "base": {
@@ -5121,7 +5121,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "grass"
       ],
       "base": {
@@ -5223,7 +5223,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 60,
@@ -5244,7 +5244,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 80,
@@ -5717,7 +5717,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "fairy"
       ],
       "base": {
@@ -5738,7 +5738,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "fairy"
       ],
       "base": {
@@ -5759,7 +5759,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "fairy"
       ],
       "base": {
@@ -5843,7 +5843,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 60,
@@ -5966,7 +5966,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 1,
@@ -6046,7 +6046,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 72,
@@ -6066,7 +6066,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 144,
@@ -6107,7 +6107,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 30,
@@ -6168,7 +6168,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 50,
@@ -6210,7 +6210,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 50,
@@ -6231,7 +6231,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 60,
@@ -6252,7 +6252,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 70,
@@ -6272,8 +6272,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting",
-        "Psychic"
+        "fighting",
+        "psychic"
       ],
       "base": {
         "hp": 30,
@@ -6293,8 +6293,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting",
-        "Psychic"
+        "fighting",
+        "psychic"
       ],
       "base": {
         "hp": 60,
@@ -6639,7 +6639,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 60,
@@ -6659,7 +6659,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 80,
@@ -6720,7 +6720,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 50,
@@ -6741,7 +6741,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 80,
@@ -6823,7 +6823,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "flying"
       ],
       "base": {
@@ -6884,8 +6884,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
-        "Psychic"
+        "rock",
+        "psychic"
       ],
       "base": {
         "hp": 90,
@@ -6905,8 +6905,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
-        "Psychic"
+        "rock",
+        "psychic"
       ],
       "base": {
         "hp": 90,
@@ -7010,7 +7010,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 40,
@@ -7031,7 +7031,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 60,
@@ -7051,7 +7051,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "grass"
       ],
       "base": {
@@ -7072,7 +7072,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "grass"
       ],
       "base": {
@@ -7093,7 +7093,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "bug"
       ],
       "base": {
@@ -7114,7 +7114,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "bug"
       ],
       "base": {
@@ -7215,7 +7215,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 44,
@@ -7235,7 +7235,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 64,
@@ -7255,7 +7255,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 20,
@@ -7275,7 +7275,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 40,
@@ -7316,7 +7316,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 75,
@@ -7356,7 +7356,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 95,
@@ -7376,7 +7376,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 50,
@@ -7396,7 +7396,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 80,
@@ -7416,7 +7416,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
+        "ice",
         "water"
       ],
       "base": {
@@ -7437,7 +7437,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
+        "ice",
         "water"
       ],
       "base": {
@@ -7458,7 +7458,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
+        "ice",
         "water"
       ],
       "base": {
@@ -7540,7 +7540,7 @@
       "entry": "",
       "type": [
         "water",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 100,
@@ -7580,7 +7580,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 45,
@@ -7600,7 +7600,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 65,
@@ -7620,7 +7620,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "flying"
       ],
       "base": {
@@ -7642,7 +7642,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 40,
@@ -7663,7 +7663,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 60,
@@ -7684,7 +7684,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 80,
@@ -7704,7 +7704,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 80,
@@ -7724,7 +7724,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 80,
@@ -7764,8 +7764,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
-        "Psychic"
+        "dragon",
+        "psychic"
       ],
       "base": {
         "hp": 80,
@@ -7785,8 +7785,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
-        "Psychic"
+        "dragon",
+        "psychic"
       ],
       "base": {
         "hp": 80,
@@ -7846,7 +7846,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "flying"
       ],
       "base": {
@@ -7868,7 +7868,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 100,
@@ -7888,7 +7888,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 50,
@@ -7990,7 +7990,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 64,
@@ -8011,7 +8011,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 76,
@@ -8338,7 +8338,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 67,
@@ -8358,7 +8358,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 97,
@@ -8378,7 +8378,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "Steel"
       ],
       "base": {
@@ -8399,7 +8399,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "Steel"
       ],
       "base": {
@@ -8685,7 +8685,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "flying"
       ],
       "base": {
@@ -8706,7 +8706,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "flying"
       ],
       "base": {
@@ -8767,7 +8767,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 60,
@@ -8848,7 +8848,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 45,
@@ -8911,7 +8911,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 57,
@@ -8932,7 +8932,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 67,
@@ -8952,7 +8952,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 50,
@@ -8972,7 +8972,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "fairy"
       ],
       "base": {
@@ -9034,7 +9034,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "Dark"
       ],
       "base": {
@@ -9055,7 +9055,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "ground"
       ],
       "base": {
@@ -9076,7 +9076,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "ground"
       ],
       "base": {
@@ -9097,7 +9097,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "ground"
       ],
       "base": {
@@ -9138,7 +9138,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 40,
@@ -9158,7 +9158,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting",
+        "fighting",
         "Steel"
       ],
       "base": {
@@ -9262,7 +9262,7 @@
       "entry": "",
       "type": [
         "poison",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 48,
@@ -9283,7 +9283,7 @@
       "entry": "",
       "type": [
         "poison",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 83,
@@ -9385,7 +9385,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 60,
@@ -9406,7 +9406,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 90,
@@ -9427,7 +9427,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 70,
@@ -9489,7 +9489,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 115,
@@ -9631,7 +9631,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 65,
@@ -9672,7 +9672,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
+        "ice",
         "ground"
       ],
       "base": {
@@ -9713,8 +9713,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
-        "Fighting"
+        "psychic",
+        "fighting"
       ],
       "base": {
         "hp": 68,
@@ -9734,7 +9734,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "Steel"
       ],
       "base": {
@@ -9755,7 +9755,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 45,
@@ -9775,8 +9775,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice",
-        "Ghost"
+        "ice",
+        "ghost"
       ],
       "base": {
         "hp": 70,
@@ -9797,7 +9797,7 @@
       "entry": "",
       "type": [
         "electric",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 50,
@@ -9817,7 +9817,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 75,
@@ -9837,7 +9837,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 80,
@@ -9857,7 +9857,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 75,
@@ -9878,7 +9878,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 100,
@@ -9899,7 +9899,7 @@
       "entry": "",
       "type": [
         "water",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 90,
@@ -9960,8 +9960,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
-        "Dragon"
+        "ghost",
+        "dragon"
       ],
       "base": {
         "hp": 150,
@@ -9981,7 +9981,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 120,
@@ -10101,7 +10101,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "fire"
       ],
       "base": {
@@ -10203,7 +10203,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 90,
@@ -10224,7 +10224,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 110,
@@ -10564,7 +10564,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 76,
@@ -10584,7 +10584,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 116,
@@ -10707,7 +10707,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 55,
@@ -10727,7 +10727,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 70,
@@ -10747,7 +10747,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 85,
@@ -10767,7 +10767,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "flying"
       ],
       "base": {
@@ -10788,7 +10788,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "flying"
       ],
       "base": {
@@ -10870,7 +10870,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 75,
@@ -10890,7 +10890,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 85,
@@ -10910,7 +10910,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 105,
@@ -10992,7 +10992,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 120,
@@ -11012,7 +11012,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 75,
@@ -11384,7 +11384,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 50,
@@ -11405,7 +11405,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 70,
@@ -11426,7 +11426,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 50,
@@ -11447,7 +11447,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 65,
@@ -11467,7 +11467,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "flying"
       ],
       "base": {
@@ -11488,7 +11488,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 38,
@@ -11508,7 +11508,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 58,
@@ -11529,7 +11529,7 @@
       "entry": "",
       "type": [
         "water",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 54,
@@ -11550,7 +11550,7 @@
       "entry": "",
       "type": [
         "water",
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 74,
@@ -11570,7 +11570,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "flying"
       ],
       "base": {
@@ -11591,7 +11591,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "flying"
       ],
       "base": {
@@ -11732,7 +11732,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 45,
@@ -11752,7 +11752,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 60,
@@ -11772,7 +11772,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 70,
@@ -11792,7 +11792,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 45,
@@ -11812,7 +11812,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 65,
@@ -11832,7 +11832,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 110,
@@ -11894,7 +11894,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 36,
@@ -11914,7 +11914,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 51,
@@ -11934,7 +11934,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 71,
@@ -12101,7 +12101,7 @@
       "entry": "",
       "type": [
         "water",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 55,
@@ -12122,7 +12122,7 @@
       "entry": "",
       "type": [
         "water",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 100,
@@ -12366,7 +12366,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 55,
@@ -12386,7 +12386,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 75,
@@ -12406,7 +12406,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "fire"
       ],
       "base": {
@@ -12427,7 +12427,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "fire"
       ],
       "base": {
@@ -12448,7 +12448,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "fire"
       ],
       "base": {
@@ -12469,7 +12469,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 46,
@@ -12489,7 +12489,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 66,
@@ -12509,7 +12509,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 76,
@@ -12529,7 +12529,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 55,
@@ -12549,7 +12549,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 95,
@@ -12569,7 +12569,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 80,
@@ -12650,7 +12650,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 45,
@@ -12670,7 +12670,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 65,
@@ -12690,7 +12690,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 77,
@@ -12711,7 +12711,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 59,
@@ -12732,7 +12732,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 89,
@@ -12940,7 +12940,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 52,
@@ -12961,7 +12961,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 72,
@@ -12982,7 +12982,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 92,
@@ -13045,7 +13045,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 91,
@@ -13065,8 +13065,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
-        "Fighting"
+        "rock",
+        "fighting"
       ],
       "base": {
         "hp": 91,
@@ -13087,7 +13087,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 91,
@@ -13148,7 +13148,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "fire"
       ],
       "base": {
@@ -13169,7 +13169,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "electric"
       ],
       "base": {
@@ -13211,8 +13211,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
-        "Ice"
+        "dragon",
+        "ice"
       ],
       "base": {
         "hp": 125,
@@ -13233,7 +13233,7 @@
       "entry": "",
       "type": [
         "water",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 91,
@@ -13254,7 +13254,7 @@
       "entry": "",
       "type": [
         "normal",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 100,
@@ -13336,7 +13336,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 88,
@@ -13397,7 +13397,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 75,
@@ -13785,7 +13785,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 67,
@@ -13805,7 +13805,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting",
+        "fighting",
         "Dark"
       ],
       "base": {
@@ -13846,7 +13846,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 62,
@@ -13866,7 +13866,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 74,
@@ -13887,7 +13887,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 45,
@@ -13908,7 +13908,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 59,
@@ -13929,7 +13929,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 60,
@@ -14030,7 +14030,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 53,
@@ -14051,7 +14051,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 86,
@@ -14071,7 +14071,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "water"
       ],
       "base": {
@@ -14092,7 +14092,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "water"
       ],
       "base": {
@@ -14135,7 +14135,7 @@
       "entry": "",
       "type": [
         "poison",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 65,
@@ -14237,8 +14237,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
-        "Dragon"
+        "rock",
+        "dragon"
       ],
       "base": {
         "hp": 58,
@@ -14258,8 +14258,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
-        "Dragon"
+        "rock",
+        "dragon"
       ],
       "base": {
         "hp": 82,
@@ -14279,8 +14279,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
-        "Ice"
+        "rock",
+        "ice"
       ],
       "base": {
         "hp": 77,
@@ -14300,8 +14300,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
-        "Ice"
+        "rock",
+        "ice"
       ],
       "base": {
         "hp": 123,
@@ -14341,7 +14341,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting",
+        "fighting",
         "flying"
       ],
       "base": {
@@ -14383,7 +14383,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "fairy"
       ],
       "base": {
@@ -14404,7 +14404,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 45,
@@ -14424,7 +14424,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 68,
@@ -14444,7 +14444,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 90,
@@ -14485,7 +14485,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "grass"
       ],
       "base": {
@@ -14506,7 +14506,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "grass"
       ],
       "base": {
@@ -14527,7 +14527,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "grass"
       ],
       "base": {
@@ -14548,7 +14548,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "grass"
       ],
       "base": {
@@ -14569,7 +14569,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 55,
@@ -14589,7 +14589,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ice"
+        "ice"
       ],
       "base": {
         "hp": 95,
@@ -14610,7 +14610,7 @@
       "entry": "",
       "type": [
         "flying",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 40,
@@ -14631,7 +14631,7 @@
       "entry": "",
       "type": [
         "flying",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 85,
@@ -14692,7 +14692,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
+        "dragon",
         "ground"
       ],
       "base": {
@@ -14713,7 +14713,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "fairy"
       ],
       "base": {
@@ -14734,8 +14734,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
-        "Ghost"
+        "psychic",
+        "ghost"
       ],
       "base": {
         "hp": 80,
@@ -14819,7 +14819,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 78,
@@ -15126,7 +15126,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 47,
@@ -15146,8 +15146,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting",
-        "Ice"
+        "fighting",
+        "ice"
       ],
       "base": {
         "hp": 97,
@@ -15225,12 +15225,12 @@
     },
     {
       "id": 744,
-      "name": "Rockruff",
+      "name": "rockruff",
       "height": "",
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 45,
@@ -15250,7 +15250,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock"
+        "rock"
       ],
       "base": {
         "hp": 75,
@@ -15539,7 +15539,7 @@
       "entry": "",
       "type": [
         "normal",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 70,
@@ -15560,7 +15560,7 @@
       "entry": "",
       "type": [
         "normal",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 120,
@@ -15661,7 +15661,7 @@
       "entry": "",
       "type": [
         "normal",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 90,
@@ -15681,7 +15681,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 100,
@@ -15743,7 +15743,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "ground"
       ],
       "base": {
@@ -15764,7 +15764,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "ground"
       ],
       "base": {
@@ -15845,7 +15845,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "flying"
       ],
       "base": {
@@ -15887,7 +15887,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 60,
@@ -15928,7 +15928,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "fairy"
       ],
       "base": {
@@ -15950,7 +15950,7 @@
       "entry": "",
       "type": [
         "water",
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 68,
@@ -15971,7 +15971,7 @@
       "entry": "",
       "type": [
         "normal",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 78,
@@ -15991,7 +15991,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ghost",
+        "ghost",
         "grass"
       ],
       "base": {
@@ -16012,7 +16012,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 45,
@@ -16032,8 +16032,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
-        "Fighting"
+        "dragon",
+        "fighting"
       ],
       "base": {
         "hp": 55,
@@ -16053,8 +16053,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dragon",
-        "Fighting"
+        "dragon",
+        "fighting"
       ],
       "base": {
         "hp": 75,
@@ -16095,7 +16095,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "fairy"
       ],
       "base": {
@@ -16158,7 +16158,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 43,
@@ -16178,7 +16178,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 43,
@@ -16198,7 +16198,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
+        "psychic",
         "Steel"
       ],
       "base": {
@@ -16219,8 +16219,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic",
-        "Ghost"
+        "psychic",
+        "ghost"
       ],
       "base": {
         "hp": 137,
@@ -16240,7 +16240,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "poison"
       ],
       "base": {
@@ -16262,7 +16262,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 107,
@@ -16283,7 +16283,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Fighting"
+        "fighting"
       ],
       "base": {
         "hp": 71,
@@ -16366,7 +16366,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 223,
@@ -16386,7 +16386,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Psychic"
+        "psychic"
       ],
       "base": {
         "hp": 97,
@@ -16427,8 +16427,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fighting",
-        "Ghost"
+        "fighting",
+        "ghost"
       ],
       "base": {
         "hp": 90,
@@ -16469,7 +16469,7 @@
       "entry": "",
       "type": [
         "poison",
-        "Dragon"
+        "dragon"
       ],
       "base": {
         "hp": 73,
@@ -16489,7 +16489,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Rock",
+        "rock",
         "Steel"
       ],
       "base": {
@@ -16511,7 +16511,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Ghost"
+        "ghost"
       ],
       "base": {
         "hp": 53,

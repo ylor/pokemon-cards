@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700");
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Open Sans", Helvetica, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Open Sans", Helvetica,
+    sans-serif;
   text-align: center;
   margin: 0;
 }
@@ -69,18 +70,18 @@ img {
   justify-content: space-between;
 }
 
-.card-title h3{
+.card-title h3 {
   margin: 0;
   padding: 0;
   line-height: 1;
 }
 
 .card-hp {
-  display:inline;
+  display: inline;
 }
 
-.card-hp-label{
-  font-size: 75%
+.card-hp-label {
+  font-size: 75%;
 }
 
 .card-caption {
@@ -93,7 +94,7 @@ img {
   background-color: rgba(0, 0, 0, 0.7);
   text-align: center;
   padding: 1em 1em 0;
-  border-radius: 3px 3px 0 0 ;
+  border-radius: 3px 3px 0 0;
 }
 
 .card-info {
@@ -138,7 +139,7 @@ img {
   text-transform: capitalize;
 }
 
-.card-stats p{
+.card-stats p {
   margin: 8px;
   padding: 0;
   line-height: 1.25;
@@ -149,7 +150,8 @@ img {
   text-align: right;
   font-weight: 300;
 }
-.card-stats th, .card-stats td {
+.card-stats th,
+.card-stats td {
   width: 50%;
   padding: 0.25em 0.5em 0;
 }
@@ -161,62 +163,116 @@ img {
   margin-top: 1em;
   flex: 1 0;
 }
+.card-bug {
+  background: linear-gradient(to top, #11998e, #38ef7d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+.card-bug .card-info {
+  background-color: #729f3f;
+}
+.card-dark {
+  background: linear-gradient(
+    20deg,
+    rgba(25, 25, 25, 1) 0%,
+    rgba(16, 11, 50, 1) 33%,
+    rgba(92, 2, 73, 1) 100%
+  );
+}
+.card-dark .card-info {
+  background: #5c0249;
+}
+.card-dragon {
+  background: linear-gradient(to top, #f16e57, #53a4cf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+.card-dragon .card-info {
+  background: #53a4cf;
+}
+.card-electric {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 222, 0, 1) 34%,
+    rgba(232, 255, 153, 1) 83%
+  );
+}
+.card-electric .card-info {
+  background-color: #000;
+}
+.card-fairy {
+  background: linear-gradient(180deg, #fbd3e9, #bb377d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+.card-fairy .card-info {
+  background: #fdb9e9;
+}
+.card-fighting {
+  background: linear-gradient(120deg, #fbd786, #f7797d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+  .card-fighting .card-info {
+  background: #d56723;
+}
+.card-fire {
+  background: linear-gradient(to top, #f12711, #f5af19); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+.card-fire .card-info {
+  background-color: #fd7d24;
+}
+.card-ghost {
+  background: linear-gradient(to top, #6a3093, #a044ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+.card-ghost .card-info {
+  background-color: #7b62a3;;
+}
+.card-grass {
+  background: linear-gradient(45deg, #56ab2f, #a8e063); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+.card-grass .card-info {
+  background: #9bcc50;
+}
+.card-ground {
+  background: linear-gradient(to bottom, #f7de3f 0%, #ab9842 100%);
+}
+.card-ground .card-info {
+  background: #ab9842;
+}
+.card-ice {
+  background: linear-gradient(
+    230deg,
+    rgba(202, 234, 246, 1) 0%,
+    rgba(160, 234, 241, 1) 46%,
+    rgba(111, 184, 235, 1) 100%
+  );
+}
+.card-ice .card-info {
+  background: #51c4e7;
+}
 .card-normal {
-  background: linear-gradient(110deg, #fdbb2d 0%, #3a1c71 100%);
+  background: linear-gradient(110deg, #fdbb2d 0%, #f2994a 100%);
   box-shadow: 0px 5px 20px -10px #3a1c71;
 }
 .card-normal .card-info {
   background-color: #c08a53;
 }
-.card-water {
-  background: linear-gradient(120deg, #1cb5e0 0%, #000851 100%);
-  box-shadow: 0px 5px 20px -10px #000851;
-}
-.card-water .card-info {
-  background-color: #1cb5e0;
-}
-.card-electric {
-  background: linear-gradient(90deg, rgba(255, 222, 0, 1) 34%, rgba(232, 255, 153, 1) 83%);
-}
-.card-electric .card-info {
-  background-color: #000;
-}
-.card-fire {
-  background: linear-gradient(0deg, rgba(199, 24, 0, 1) 10%, rgba(252, 194, 69, 1) 100%);
-}
-.card-fire .card-info{
-  background-color: rgba(199, 24, 0, 1);
-}
-.card-psychic {
-  background: linear-gradient(140deg, rgba(255, 167, 249, 1) 0%, rgba(255, 44, 195, 1) 39%, rgba(255, 227, 167, 1) 100%);
-}
-.card-psychic .card-info {
-  background: #ff2cc3;
-}
-.card-dark {
-  background: linear-gradient(20deg, rgba(25, 25, 25, 1) 0%, rgba(16, 11, 50, 1) 33%, rgba(92, 2, 73, 1) 100%);
-}
-.card-dark .card-info {
-  background: #5c0249;
-}
-.card-grass {
-  background: linear-gradient(140deg, rgba(196, 218, 61, 1) 0%, rgba(110, 127, 14, 1) 69%, rgba(39, 80, 9, 1) 100%);
-}
-.card-grass .card-info {
-  background: #6e7f0e;
+.card-poison {
+  background: linear-gradient(to bottom, #f953c6, #b91d73);
 }
 
-.card-ice {
-  background: linear-gradient(230deg, rgba(202, 234, 246, 1) 0%, rgba(160, 234, 241, 1) 46%, rgba(111, 184, 235, 1) 100%);
+.card-poison .card-info {
+  background: #b97fc9;
 }
-.card-ice .card-info {
-  background: #6fb8eb;
+
+.card-psychic {
+  background: linear-gradient(
+    140deg,
+    rgba(255, 167, 249, 1) 0%,
+    rgba(255, 44, 195, 1) 39%,
+    rgba(255, 227, 167, 1) 100%
+  );
 }
-.card-fairy {
-  background: linear-gradient(45deg, rgba(255, 230, 240, 1) 0%, rgba(255, 197, 224, 1) 34%, rgba(255, 166, 185, 1) 71%, rgba(255, 138, 149, 1) 100%);
+.card-psychic .card-info {
+  background: #f366b9;
 }
-.card-fairy .card-info {
-  background: #ff8a95;
+.card-rock {
+  background: linear-gradient(to top, #3c3b3f, #a38c21); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+.card-rock .card-info {
+  background: #a38c21;
+}
+.card-water {
+  background: linear-gradient(to bottom, #74ebd5, #acb6e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+.card-water .card-info {
+  background-color: #4592c4;
 }
 /* .card:nth-child(1n) {
   transform: translateY(0px) rotate(4deg);

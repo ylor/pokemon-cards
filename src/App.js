@@ -1,8 +1,10 @@
 import React from "react";
+import Tilt from 'react-tilt'
 import pokedex from "./pokedex.json";
 
 //inspired by https://codepen.io/csb324/pen/MXVaLj
 //inspiration 2: https://cdn.dribbble.com/users/1246853/screenshots/3902471/mon.png
+
 
 function App() {
   console.log(pokedex);
@@ -16,6 +18,7 @@ function App() {
               key={mon.id}
               id={mon.id}
               className={`card card-${mon.type[0]}`}
+              dataitlt
             >
               <div className="card-title">
                 <h3>{mon.name}</h3>{" "}
