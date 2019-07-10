@@ -32,8 +32,8 @@ function App() {
                 />
               </div>
               <div className="card-caption">
-                <h3 className="card-num">#{(mon.id + "").padStart(3, "0")}</h3>
-                <h3 className="card-type">{mon.type[0]}</h3>
+                <h3 className="card-info card-num">#{(mon.id + "").padStart(3, "0")}</h3>
+                <h3 className="card-info card-type">{mon.type[0]}</h3>
                 <table className="card-stats">
                   <p>Attack {mon.base.attack}</p>
                   <p>Defense {mon.base.defense}</p>

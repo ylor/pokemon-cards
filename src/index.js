@@ -7,7 +7,8 @@ import * as serviceWorker from './serviceWorker';
 
 document.addEventListener("DOMContentLoaded", function() {
     yall({
-      observeChanges: true
+      observeChanges: true,
+      threshold: 500
     })
   })
 

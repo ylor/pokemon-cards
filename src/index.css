@@ -95,10 +95,10 @@ img {
   padding: 1em 1em 0;
   border-radius: 3px 3px 0 0 ;
 }
-.card-num {
+
+.card-info {
   position: absolute;
   top: 0;
-  left: 1em;
   transform: translateY(-100%);
   color: #fff;
   text-transform: uppercase;
@@ -110,20 +110,14 @@ img {
   background: #bbb;
 }
 
-.card-type {
-  position: absolute;
-  top: 0;
-  right: 1em;
-  transform: translateY(-100%);
-  color: #fff;
-  text-transform: uppercase;
-  font-family: "Open Sans Condensed", "Open Sans", helvetica, sans-serif;
-  letter-spacing: 0.1em;
-  padding: 0.25em;
-  line-height: 1;
-  border-radius: 2px;
-  background: #bbb;
+.card-num {
+  left: 1em;
 }
+
+.card-type {
+  right: 1em;
+}
+
 .card-label {
   font-size: 10px;
   text-transform: uppercase;
@@ -171,57 +165,57 @@ img {
   background: linear-gradient(110deg, #fdbb2d 0%, #3a1c71 100%);
   box-shadow: 0px 5px 20px -10px #3a1c71;
 }
-.card-normal .card-type {
+.card-normal .card-info {
   background-color: #c08a53;
 }
 .card-water {
   background: linear-gradient(120deg, #1cb5e0 0%, #000851 100%);
   box-shadow: 0px 5px 20px -10px #000851;
 }
-.card-water .card-type {
+.card-water .card-info {
   background-color: #1cb5e0;
 }
 .card-electric {
   background: linear-gradient(90deg, rgba(255, 222, 0, 1) 34%, rgba(232, 255, 153, 1) 83%);
 }
-.card-electric .card-type {
+.card-electric .card-info {
   background-color: #000;
 }
 .card-fire {
   background: linear-gradient(0deg, rgba(199, 24, 0, 1) 10%, rgba(252, 194, 69, 1) 100%);
 }
-.card-fire .card-type .card-num {
+.card-fire .card-info{
   background-color: rgba(199, 24, 0, 1);
 }
 .card-psychic {
   background: linear-gradient(140deg, rgba(255, 167, 249, 1) 0%, rgba(255, 44, 195, 1) 39%, rgba(255, 227, 167, 1) 100%);
 }
-.card-psychic .card-type {
+.card-psychic .card-info {
   background: #ff2cc3;
 }
 .card-dark {
   background: linear-gradient(20deg, rgba(25, 25, 25, 1) 0%, rgba(16, 11, 50, 1) 33%, rgba(92, 2, 73, 1) 100%);
 }
-.card-dark .card-type {
+.card-dark .card-info {
   background: #5c0249;
 }
 .card-grass {
   background: linear-gradient(140deg, rgba(196, 218, 61, 1) 0%, rgba(110, 127, 14, 1) 69%, rgba(39, 80, 9, 1) 100%);
 }
-.card-grass .card-type {
+.card-grass .card-info {
   background: #6e7f0e;
 }
 
 .card-ice {
   background: linear-gradient(230deg, rgba(202, 234, 246, 1) 0%, rgba(160, 234, 241, 1) 46%, rgba(111, 184, 235, 1) 100%);
 }
-.card-ice .card-type {
+.card-ice .card-info {
   background: #6fb8eb;
 }
 .card-fairy {
   background: linear-gradient(45deg, rgba(255, 230, 240, 1) 0%, rgba(255, 197, 224, 1) 34%, rgba(255, 166, 185, 1) 71%, rgba(255, 138, 149, 1) 100%);
 }
-.card-fairy .card-type {
+.card-fairy .card-info {
   background: #ff8a95;
 }
 /* .card:nth-child(1n) {
