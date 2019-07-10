@@ -4,7 +4,7 @@
       "name": "Bulbasaur",
       "height": "",
       "weight": "",
-      "entry": "",
+      "entry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
       "type": [
         "grass",
         "poison"
@@ -25,7 +25,7 @@
       "name": "Ivysaur",
       "height": "",
       "weight": "",
-      "entry": "",
+      "entry": "The bud on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
       "type": [
         "grass",
         "poison"
@@ -46,7 +46,7 @@
       "name": "Venusaur",
       "height": "",
       "weight": "",
-      "entry": "",
+      "entry": "The flower on its back catches the sun’s rays. The sunlight is then absorbed and used for energy.",
       "type": [
         "grass",
         "poison"
@@ -67,7 +67,7 @@
       "name": "Charmander",
       "height": "",
       "weight": "",
-      "entry": "",
+      "entry": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
       "type": [
         "fire"
       ],

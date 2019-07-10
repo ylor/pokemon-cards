@@ -1,10 +1,8 @@
 import React from "react";
-import Tilt from 'react-tilt'
 import pokedex from "./pokedex.json";
 
 //inspired by https://codepen.io/csb324/pen/MXVaLj
 //inspiration 2: https://cdn.dribbble.com/users/1246853/screenshots/3902471/mon.png
-
 
 function App() {
   console.log(pokedex);
@@ -35,15 +33,25 @@ function App() {
                 />
               </div>
               <div className="card-caption">
-                <h3 className="card-info card-num">#{(mon.id + "").padStart(3, "0")}</h3>
+                <h3 className="card-info card-num">
+                  #{(mon.id + "").padStart(3, "0")}
+                </h3>
                 <h3 className="card-info card-type">{mon.type[0]}</h3>
-                <table className="card-stats">
-                  <p>Attack {mon.base.attack}</p>
-                  <p>Defense {mon.base.defense}</p>
-                  <p>Special Attack {mon.base.sp_attack}</p>
-                  <p>Special Defense {mon.base.sp_defense}</p>
-                  <p>Speed {mon.base.speed}</p>
-                </table>
+                <div className="card-stats">
+                  <p>
+                    Attack <span>{mon.base.attack}</span>
+                  </p>
+                  <p>
+                    Sp. Attack <span>{mon.base.sp_attack}</span>
+                  </p>
+                  <p>
+                    Defense <span>{mon.base.defense}</span>
+                  </p>
+                  <p>
+                    Sp. Defense <span>{mon.base.sp_defense}</span>
+                  </p>
+                  <p>Speed <span>{mon.base.speed}</span></p>
+                </div>
               </div>
             </div>
           ))}
