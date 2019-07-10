@@ -23,7 +23,7 @@ function App() {
           <div key={pokemon.id} id={pokemon.id} className="card">
             <h3>{pokemon.name}</h3>
             <img
-              data-src={`img/${(pokemon.id+"").padStart(3,"0")}.png`}
+              data-src={`https://assets.pokemon.com/assets/cms2/img/pokedex/full/${(pokemon.id+"").padStart(3,"0")}.png`}
               alt={pokemon.name}
               className="lazy"
             />
