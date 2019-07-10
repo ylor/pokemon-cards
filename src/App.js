@@ -21,7 +21,7 @@ function App() {
               dataitlt
             >
               <div className="card-title">
-                <h3>{mon.name}</h3>{" "}
+                <h3 className="card-name">{mon.name}</h3>{" "}
                 <div className="card-hp>">
                   <span className="card-hp-label">HP&nbsp;</span>
                   <h3 className="card-hp">{mon.base.hp}</h3>
