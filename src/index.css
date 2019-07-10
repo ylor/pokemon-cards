@@ -1,13 +1,258 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700');
+
 body {
+  font-family: -apple-system, BlinkMacSystemFont, "Open Sans", Helvetica, sans-serif;
+  text-align: center;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+img {
+  max-height: 150px;
+  margin: auto;
+  display: inline-block;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.card {
+  display: inline-block;
+  width: 300px;
+  padding: 1em;
+  border-radius: 15px;
+  margin: 10px;
+  background: #ddd;
+  text-align: left;
+  box-shadow: 0px 5px 20px -10px #111;
+  position: relative;
+  transition: 0.4s;
+}
+
+.card img {
+  height: 150px;
+}
+
+.card-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-title h3{
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+.card-hp {
+  display:inline;
+}
+
+.card-hp-label{
+  font-size: 75%
+}
+
+.card-caption {
+  background-color: rgba(255, 255, 255, 0.65);
+  padding: 1em;
+  position: relative;
+  border-radius: 0 0 3px 3px;
+}
+.card-image-container {
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  padding: 1em 1em 0;
+  border-radius: 3px 3px 0 0 ;
+}
+.card-num {
+  position: absolute;
+  top: 0;
+  left: 1em;
+  transform: translateY(-100%);
+  color: #fff;
+  text-transform: uppercase;
+  font-family: "Open Sans Condensed", "Open Sans", helvetica, sans-serif;
+  letter-spacing: 0.1em;
+  padding: 0.25em;
+  line-height: 1;
+  border-radius: 2px;
+  background: #bbb;
+}
+
+.card-type {
+  position: absolute;
+  top: 0;
+  right: 1em;
+  transform: translateY(-100%);
+  color: #fff;
+  text-transform: uppercase;
+  font-family: "Open Sans Condensed", "Open Sans", helvetica, sans-serif;
+  letter-spacing: 0.1em;
+  padding: 0.25em;
+  line-height: 1;
+  border-radius: 2px;
+  background: #bbb;
+}
+.card-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  font-weight: 400;
+  display: block;
+  margin-bottom: 3px;
+}
+.card-name {
+  font-family: "Open Sans Condensed", "Open Sans", helvetica, sans-serif;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+.card-stats {
+  margin: 1em 0;
+  width: 100%;
+  text-transform: capitalize;
+}
+
+.card-stats p{
+  margin: 8px;
+  padding: 0;
+  line-height: 1.25;
+}
+
+.card-stats th {
+  font-family: "Open Sans Condensed", "Open Sans", helvetica, sans-serif;
+  text-align: right;
+  font-weight: 300;
+}
+.card-stats th, .card-stats td {
+  width: 50%;
+  padding: 0.25em 0.5em 0;
+}
+.card-abilities {
+  display: flex;
+  justify-content: space-between;
+}
+.card-ability {
+  margin-top: 1em;
+  flex: 1 0;
+}
+.card-normal {
+  background: linear-gradient(110deg, #fdbb2d 0%, #3a1c71 100%);
+  box-shadow: 0px 5px 20px -10px #3a1c71;
+}
+.card-normal .card-type {
+  background-color: #c08a53;
+}
+.card-water {
+  background: linear-gradient(120deg, #1cb5e0 0%, #000851 100%);
+  box-shadow: 0px 5px 20px -10px #000851;
+}
+.card-water .card-type {
+  background-color: #1cb5e0;
+}
+.card-electric {
+  background: linear-gradient(90deg, rgba(255, 222, 0, 1) 34%, rgba(232, 255, 153, 1) 83%);
+}
+.card-electric .card-type {
+  background-color: #000;
+}
+.card-fire {
+  background: linear-gradient(0deg, rgba(199, 24, 0, 1) 10%, rgba(252, 194, 69, 1) 100%);
+}
+.card-fire .card-type .card-num {
+  background-color: rgba(199, 24, 0, 1);
+}
+.card-psychic {
+  background: linear-gradient(140deg, rgba(255, 167, 249, 1) 0%, rgba(255, 44, 195, 1) 39%, rgba(255, 227, 167, 1) 100%);
+}
+.card-psychic .card-type {
+  background: #ff2cc3;
+}
+.card-dark {
+  background: linear-gradient(20deg, rgba(25, 25, 25, 1) 0%, rgba(16, 11, 50, 1) 33%, rgba(92, 2, 73, 1) 100%);
+}
+.card-dark .card-type {
+  background: #5c0249;
+}
+.card-grass {
+  background: linear-gradient(140deg, rgba(196, 218, 61, 1) 0%, rgba(110, 127, 14, 1) 69%, rgba(39, 80, 9, 1) 100%);
+}
+.card-grass .card-type {
+  background: #6e7f0e;
+}
+
+.card-ice {
+  background: linear-gradient(230deg, rgba(202, 234, 246, 1) 0%, rgba(160, 234, 241, 1) 46%, rgba(111, 184, 235, 1) 100%);
+}
+.card-ice .card-type {
+  background: #6fb8eb;
+}
+.card-fairy {
+  background: linear-gradient(45deg, rgba(255, 230, 240, 1) 0%, rgba(255, 197, 224, 1) 34%, rgba(255, 166, 185, 1) 71%, rgba(255, 138, 149, 1) 100%);
+}
+.card-fairy .card-type {
+  background: #ff8a95;
+}
+/* .card:nth-child(1n) {
+  transform: translateY(0px) rotate(4deg);
+}
+.card:nth-child(2n) {
+  transform: translateY(0px) rotate(-2deg);
+}
+.card:nth-child(3n) {
+  transform: translateY(0px) rotate(-2deg);
+}
+.card:nth-child(4n) {
+  transform: translateY(0px) rotate(1deg);
+}
+.card:nth-child(5n) {
+  transform: translateY(0px) rotate(-2deg);
+}
+.card:nth-child(6n) {
+  transform: translateY(0px) rotate(-4deg);
+}
+.card:nth-child(7n) {
+  transform: translateY(0px) rotate(-5deg);
+}
+.card:nth-child(8n) {
+  transform: translateY(0px) rotate(-5deg);
+}
+.card:nth-child(9n) {
+  transform: translateY(0px) rotate(2deg);
+} */
+.card:hover {
+  z-index: 5;
+  box-shadow: 0px 13px 30px -15px #000;
+  transform: translateY(-5px);
 }

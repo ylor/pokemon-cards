@@ -1,43 +1,52 @@
-import React from "react"
-import yall from "yall-js"
-import "./App.css"
-import pokedex from "./pokedex.json"
+import React from "react";
+import pokedex from "./pokedex.json";
 
 //inspired by https://codepen.io/csb324/pen/MXVaLj
-//inspiration 2: https://cdn.dribbble.com/users/1246853/screenshots/3902471/pokemon.png
+//inspiration 2: https://cdn.dribbble.com/users/1246853/screenshots/3902471/mon.png
 
 function App() {
-  console.log(pokedex)
-
-  document.addEventListener("DOMContentLoaded", function() {
-    yall({
-      observeChanges: true
-    })
-  })
-
+  console.log(pokedex);
   return (
     <div className="App">
       <div className="wrapper">
-        {pokedex.filter(pokemon => (pokemon.id <152)).map(pokemon => (
-          <div key={pokemon.id} id={pokemon.id} className="card">
-            <h3>{pokemon.name} HP{pokemon.base.hp}</h3>
-            <img
-              data-src={`https://assets.pokemon.com/assets/cms2/img/pokedex/full/${(pokemon.id+'').padStart(3,"0")}.png`}
-              alt={pokemon.name}
-              className="lazy"
-            />
-            <p>#{(pokemon.id+'').padStart(3,"0")}</p>
-            <p>Type {pokemon.type[0]}</p>
-            <p>Attack {pokemon.base.attack}</p>
-            <p>Defense {pokemon.base.defense}</p>
-            <p>Special Attack {pokemon.base.sp_attack}</p> 
-            <p>Special Defense {pokemon.base.sp_defense}</p> 
-            <p>Speed {pokemon.base.speed}</p>
-          </div>
-        ))}
+        {pokedex
+          .filter(mon => mon.id < 152)
+          .map(mon => (
+            <div
+              key={mon.id}
+              id={mon.id}
+              className={`card card-${mon.type[0]}`}
+            >
+              <div className="card-title">
+                <h3>{mon.name}</h3>{" "}
+                <div className="card-hp>">
+                  <span className="card-hp-label">HP&nbsp;</span>
+                  <h3 className="card-hp">{mon.base.hp}</h3>
+                </div>
+              </div>
+              <div className="card-image-container">
+                <img
+                  data-src={`img/${(mon.id + "").padStart(3, "0")}.png`}
+                  alt={mon.name}
+                  className="lazy"
+                />
+              </div>
+              <div className="card-caption">
+                <h3 className="card-num">#{(mon.id + "").padStart(3, "0")}</h3>
+                <h3 className="card-type">{mon.type[0]}</h3>
+                <table className="card-stats">
+                  <p>Attack {mon.base.attack}</p>
+                  <p>Defense {mon.base.defense}</p>
+                  <p>Special Attack {mon.base.sp_attack}</p>
+                  <p>Special Defense {mon.base.sp_defense}</p>
+                  <p>Speed {mon.base.speed}</p>
+                </table>
+              </div>
+            </div>
+          ))}
       </div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

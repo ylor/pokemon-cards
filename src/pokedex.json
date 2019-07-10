@@ -6,8 +6,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 45,
@@ -27,8 +27,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 60,
@@ -48,8 +48,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 80,
@@ -69,7 +69,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 39,
@@ -89,7 +89,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 58,
@@ -109,8 +109,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Flying"
+        "fire",
+        "flying"
       ],
       "base": {
         "hp": 78,
@@ -130,7 +130,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 44,
@@ -150,7 +150,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 59,
@@ -170,7 +170,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 79,
@@ -190,7 +190,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 45,
@@ -210,7 +210,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 50,
@@ -230,8 +230,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 60,
@@ -251,8 +251,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 40,
@@ -272,8 +272,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 45,
@@ -293,8 +293,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 65,
@@ -314,8 +314,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 40,
@@ -335,8 +335,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 63,
@@ -356,8 +356,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 83,
@@ -377,7 +377,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 30,
@@ -397,7 +397,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 55,
@@ -417,8 +417,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 40,
@@ -438,8 +438,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 65,
@@ -459,7 +459,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 35,
@@ -479,7 +479,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 60,
@@ -499,7 +499,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 35,
@@ -519,7 +519,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 60,
@@ -539,7 +539,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 50,
@@ -559,7 +559,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 75,
@@ -579,7 +579,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 55,
@@ -599,7 +599,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 70,
@@ -619,8 +619,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Ground"
+        "poison",
+        "ground"
       ],
       "base": {
         "hp": 90,
@@ -640,7 +640,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 46,
@@ -660,7 +660,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 61,
@@ -680,8 +680,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Ground"
+        "poison",
+        "ground"
       ],
       "base": {
         "hp": 81,
@@ -701,7 +701,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 70,
@@ -721,7 +721,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 95,
@@ -741,7 +741,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 38,
@@ -761,7 +761,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 73,
@@ -781,8 +781,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Fairy"
+        "normal",
+        "fairy"
       ],
       "base": {
         "hp": 115,
@@ -802,8 +802,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Fairy"
+        "normal",
+        "fairy"
       ],
       "base": {
         "hp": 140,
@@ -823,8 +823,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Flying"
+        "poison",
+        "flying"
       ],
       "base": {
         "hp": 40,
@@ -844,8 +844,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Flying"
+        "poison",
+        "flying"
       ],
       "base": {
         "hp": 75,
@@ -865,8 +865,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 45,
@@ -886,8 +886,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 60,
@@ -907,8 +907,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 75,
@@ -928,8 +928,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Grass"
+        "bug",
+        "grass"
       ],
       "base": {
         "hp": 35,
@@ -949,8 +949,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Grass"
+        "bug",
+        "grass"
       ],
       "base": {
         "hp": 60,
@@ -970,8 +970,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 60,
@@ -991,8 +991,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 70,
@@ -1012,7 +1012,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 10,
@@ -1032,7 +1032,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 35,
@@ -1052,7 +1052,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 40,
@@ -1072,7 +1072,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 65,
@@ -1092,7 +1092,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -1112,7 +1112,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 80,
@@ -1172,7 +1172,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 55,
@@ -1192,7 +1192,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 90,
@@ -1212,7 +1212,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 40,
@@ -1232,7 +1232,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 65,
@@ -1252,7 +1252,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Fighting"
       ],
       "base": {
@@ -1393,8 +1393,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 50,
@@ -1414,8 +1414,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 65,
@@ -1435,8 +1435,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 80,
@@ -1456,8 +1456,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Poison"
+        "water",
+        "poison"
       ],
       "base": {
         "hp": 40,
@@ -1477,8 +1477,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Poison"
+        "water",
+        "poison"
       ],
       "base": {
         "hp": 80,
@@ -1499,7 +1499,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 40,
@@ -1520,7 +1520,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 55,
@@ -1541,7 +1541,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 80,
@@ -1561,7 +1561,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 50,
@@ -1581,7 +1581,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 65,
@@ -1601,7 +1601,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Psychic"
       ],
       "base": {
@@ -1622,7 +1622,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Psychic"
       ],
       "base": {
@@ -1643,7 +1643,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
+        "electric",
         "Steel"
       ],
       "base": {
@@ -1664,7 +1664,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
+        "electric",
         "Steel"
       ],
       "base": {
@@ -1685,8 +1685,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 52,
@@ -1706,8 +1706,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 35,
@@ -1727,8 +1727,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 60,
@@ -1748,7 +1748,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 65,
@@ -1768,7 +1768,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Ice"
       ],
       "base": {
@@ -1789,7 +1789,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 80,
@@ -1809,7 +1809,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 105,
@@ -1829,7 +1829,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 30,
@@ -1849,7 +1849,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Ice"
       ],
       "base": {
@@ -1871,7 +1871,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 30,
@@ -1892,7 +1892,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 45,
@@ -1913,7 +1913,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 60,
@@ -1934,7 +1934,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 35,
@@ -1994,7 +1994,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 30,
@@ -2014,7 +2014,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 55,
@@ -2034,7 +2034,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 40,
@@ -2054,7 +2054,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 60,
@@ -2074,7 +2074,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Psychic"
       ],
       "base": {
@@ -2095,7 +2095,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Psychic"
       ],
       "base": {
@@ -2116,7 +2116,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 50,
@@ -2136,7 +2136,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 60,
@@ -2196,7 +2196,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 90,
@@ -2216,7 +2216,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 40,
@@ -2236,7 +2236,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 65,
@@ -2256,7 +2256,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Rock"
       ],
       "base": {
@@ -2277,7 +2277,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Rock"
       ],
       "base": {
@@ -2298,7 +2298,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 250,
@@ -2318,7 +2318,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 65,
@@ -2338,7 +2338,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 105,
@@ -2358,7 +2358,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 30,
@@ -2378,7 +2378,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 55,
@@ -2398,7 +2398,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 45,
@@ -2418,7 +2418,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 80,
@@ -2438,7 +2438,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 30,
@@ -2458,7 +2458,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Psychic"
       ],
       "base": {
@@ -2480,7 +2480,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 40,
@@ -2500,8 +2500,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 70,
@@ -2542,7 +2542,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 65,
@@ -2562,7 +2562,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 65,
@@ -2582,7 +2582,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 65,
@@ -2602,7 +2602,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 75,
@@ -2622,7 +2622,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 20,
@@ -2642,8 +2642,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Flying"
+        "water",
+        "flying"
       ],
       "base": {
         "hp": 95,
@@ -2663,7 +2663,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Ice"
       ],
       "base": {
@@ -2684,7 +2684,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 48,
@@ -2704,7 +2704,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 55,
@@ -2724,7 +2724,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 130,
@@ -2744,7 +2744,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 65,
@@ -2764,7 +2764,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 65,
@@ -2784,7 +2784,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 65,
@@ -2805,7 +2805,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 35,
@@ -2826,7 +2826,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 70,
@@ -2847,7 +2847,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 30,
@@ -2868,7 +2868,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 60,
@@ -2889,7 +2889,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 80,
@@ -2909,7 +2909,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 160,
@@ -2930,7 +2930,7 @@
       "entry": "",
       "type": [
         "Ice",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 90,
@@ -2950,8 +2950,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
-        "Flying"
+        "electric",
+        "flying"
       ],
       "base": {
         "hp": 90,
@@ -2971,8 +2971,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Flying"
+        "fire",
+        "flying"
       ],
       "base": {
         "hp": 90,
@@ -3033,7 +3033,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 91,
@@ -3093,7 +3093,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 45,
@@ -3113,7 +3113,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 60,
@@ -3133,7 +3133,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 80,
@@ -3153,7 +3153,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 39,
@@ -3173,7 +3173,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 58,
@@ -3193,7 +3193,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 78,
@@ -3213,7 +3213,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -3233,7 +3233,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 65,
@@ -3253,7 +3253,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 85,
@@ -3273,7 +3273,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 35,
@@ -3293,7 +3293,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 85,
@@ -3313,8 +3313,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 60,
@@ -3334,8 +3334,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 100,
@@ -3355,8 +3355,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 40,
@@ -3376,8 +3376,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 55,
@@ -3397,8 +3397,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 40,
@@ -3418,8 +3418,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 70,
@@ -3439,8 +3439,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Flying"
+        "poison",
+        "flying"
       ],
       "base": {
         "hp": 85,
@@ -3460,8 +3460,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Electric"
+        "water",
+        "electric"
       ],
       "base": {
         "hp": 75,
@@ -3481,8 +3481,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Electric"
+        "water",
+        "electric"
       ],
       "base": {
         "hp": 125,
@@ -3502,7 +3502,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 20,
@@ -3522,7 +3522,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 50,
@@ -3542,8 +3542,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Fairy"
+        "normal",
+        "fairy"
       ],
       "base": {
         "hp": 90,
@@ -3563,7 +3563,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 35,
@@ -3583,8 +3583,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy",
-        "Flying"
+        "fairy",
+        "flying"
       ],
       "base": {
         "hp": 55,
@@ -3605,7 +3605,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 40,
@@ -3626,7 +3626,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 65,
@@ -3646,7 +3646,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 55,
@@ -3666,7 +3666,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 70,
@@ -3686,7 +3686,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 90,
@@ -3706,7 +3706,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 75,
@@ -3726,8 +3726,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Fairy"
+        "water",
+        "fairy"
       ],
       "base": {
         "hp": 70,
@@ -3747,8 +3747,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Fairy"
+        "water",
+        "fairy"
       ],
       "base": {
         "hp": 100,
@@ -3788,7 +3788,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 90,
@@ -3808,8 +3808,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Flying"
+        "grass",
+        "flying"
       ],
       "base": {
         "hp": 35,
@@ -3829,8 +3829,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Flying"
+        "grass",
+        "flying"
       ],
       "base": {
         "hp": 55,
@@ -3850,8 +3850,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Flying"
+        "grass",
+        "flying"
       ],
       "base": {
         "hp": 75,
@@ -3871,7 +3871,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 55,
@@ -3891,7 +3891,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 30,
@@ -3911,7 +3911,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 75,
@@ -3931,8 +3931,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 65,
@@ -3952,8 +3952,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 55,
@@ -3973,8 +3973,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 95,
@@ -4035,7 +4035,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 60,
@@ -4055,7 +4055,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Psychic"
       ],
       "base": {
@@ -4136,7 +4136,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
+        "normal",
         "Psychic"
       ],
       "base": {
@@ -4157,7 +4157,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 50,
@@ -4177,7 +4177,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Steel"
       ],
       "base": {
@@ -4198,7 +4198,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 100,
@@ -4218,8 +4218,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
-        "Flying"
+        "ground",
+        "flying"
       ],
       "base": {
         "hp": 65,
@@ -4240,7 +4240,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 75,
@@ -4260,7 +4260,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 60,
@@ -4280,7 +4280,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 90,
@@ -4300,8 +4300,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Poison"
+        "water",
+        "poison"
       ],
       "base": {
         "hp": 65,
@@ -4321,7 +4321,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Steel"
       ],
       "base": {
@@ -4342,7 +4342,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Rock"
       ],
       "base": {
@@ -4363,7 +4363,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Fighting"
       ],
       "base": {
@@ -4405,7 +4405,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 60,
@@ -4425,7 +4425,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 90,
@@ -4445,7 +4445,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 40,
@@ -4465,7 +4465,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Rock"
       ],
       "base": {
@@ -4487,7 +4487,7 @@
       "entry": "",
       "type": [
         "Ice",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 50,
@@ -4508,7 +4508,7 @@
       "entry": "",
       "type": [
         "Ice",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 100,
@@ -4528,7 +4528,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Rock"
       ],
       "base": {
@@ -4549,7 +4549,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 35,
@@ -4569,7 +4569,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 75,
@@ -4590,7 +4590,7 @@
       "entry": "",
       "type": [
         "Ice",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 45,
@@ -4610,8 +4610,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Flying"
+        "water",
+        "flying"
       ],
       "base": {
         "hp": 85,
@@ -4632,7 +4632,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 65,
@@ -4653,7 +4653,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 45,
@@ -4674,7 +4674,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 75,
@@ -4694,7 +4694,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Dragon"
       ],
       "base": {
@@ -4715,7 +4715,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 90,
@@ -4735,7 +4735,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 90,
@@ -4755,7 +4755,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 85,
@@ -4775,7 +4775,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 73,
@@ -4795,7 +4795,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 55,
@@ -4876,7 +4876,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 45,
@@ -4896,7 +4896,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 45,
@@ -4916,7 +4916,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 95,
@@ -4936,7 +4936,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 255,
@@ -4956,7 +4956,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 90,
@@ -4976,7 +4976,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 115,
@@ -4996,7 +4996,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 100,
@@ -5017,7 +5017,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 50,
@@ -5038,7 +5038,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 70,
@@ -5080,7 +5080,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 106,
@@ -5100,8 +5100,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Flying"
+        "fire",
+        "flying"
       ],
       "base": {
         "hp": 106,
@@ -5122,7 +5122,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 100,
@@ -5142,7 +5142,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 40,
@@ -5162,7 +5162,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 50,
@@ -5182,7 +5182,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 70,
@@ -5202,7 +5202,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 45,
@@ -5222,7 +5222,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Fighting"
       ],
       "base": {
@@ -5243,7 +5243,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Fighting"
       ],
       "base": {
@@ -5264,7 +5264,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -5284,8 +5284,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 70,
@@ -5305,8 +5305,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 100,
@@ -5366,7 +5366,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 38,
@@ -5386,7 +5386,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 78,
@@ -5406,7 +5406,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 45,
@@ -5426,7 +5426,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 50,
@@ -5446,8 +5446,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 60,
@@ -5467,7 +5467,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 50,
@@ -5487,8 +5487,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 60,
@@ -5508,8 +5508,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Grass"
+        "water",
+        "grass"
       ],
       "base": {
         "hp": 40,
@@ -5529,8 +5529,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Grass"
+        "water",
+        "grass"
       ],
       "base": {
         "hp": 60,
@@ -5550,8 +5550,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Grass"
+        "water",
+        "grass"
       ],
       "base": {
         "hp": 80,
@@ -5571,7 +5571,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 40,
@@ -5591,7 +5591,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Dark"
       ],
       "base": {
@@ -5612,7 +5612,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Dark"
       ],
       "base": {
@@ -5633,8 +5633,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 40,
@@ -5654,8 +5654,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 60,
@@ -5675,8 +5675,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Flying"
+        "water",
+        "flying"
       ],
       "base": {
         "hp": 40,
@@ -5696,8 +5696,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Flying"
+        "water",
+        "flying"
       ],
       "base": {
         "hp": 60,
@@ -5718,7 +5718,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 28,
@@ -5739,7 +5739,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 38,
@@ -5760,7 +5760,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 68,
@@ -5780,8 +5780,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Water"
+        "bug",
+        "water"
       ],
       "base": {
         "hp": 40,
@@ -5801,8 +5801,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 70,
@@ -5822,7 +5822,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 60,
@@ -5842,7 +5842,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Fighting"
       ],
       "base": {
@@ -5863,7 +5863,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 60,
@@ -5883,7 +5883,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 80,
@@ -5903,7 +5903,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 150,
@@ -5923,8 +5923,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Ground"
+        "bug",
+        "ground"
       ],
       "base": {
         "hp": 31,
@@ -5944,8 +5944,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 61,
@@ -5965,7 +5965,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Ghost"
       ],
       "base": {
@@ -5986,7 +5986,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 64,
@@ -6006,7 +6006,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 84,
@@ -6026,7 +6026,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 104,
@@ -6086,8 +6086,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Fairy"
+        "normal",
+        "fairy"
       ],
       "base": {
         "hp": 50,
@@ -6127,7 +6127,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 50,
@@ -6147,7 +6147,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 70,
@@ -6189,7 +6189,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 50,
@@ -6314,7 +6314,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 40,
@@ -6334,7 +6334,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 70,
@@ -6354,7 +6354,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 60,
@@ -6374,7 +6374,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 60,
@@ -6394,7 +6394,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 65,
@@ -6414,7 +6414,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 65,
@@ -6434,8 +6434,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 50,
@@ -6455,7 +6455,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 70,
@@ -6475,7 +6475,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 100,
@@ -6495,7 +6495,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Dark"
       ],
       "base": {
@@ -6516,7 +6516,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Dark"
       ],
       "base": {
@@ -6537,7 +6537,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 130,
@@ -6557,7 +6557,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 170,
@@ -6577,8 +6577,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Ground"
+        "fire",
+        "ground"
       ],
       "base": {
         "hp": 60,
@@ -6598,8 +6598,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Ground"
+        "fire",
+        "ground"
       ],
       "base": {
         "hp": 70,
@@ -6619,7 +6619,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 70,
@@ -6679,7 +6679,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 60,
@@ -6699,7 +6699,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 45,
@@ -6719,7 +6719,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Dragon"
       ],
       "base": {
@@ -6740,7 +6740,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Dragon"
       ],
       "base": {
@@ -6761,7 +6761,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 50,
@@ -6781,7 +6781,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Dark"
       ],
       "base": {
@@ -6802,8 +6802,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 45,
@@ -6824,7 +6824,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 75,
@@ -6844,7 +6844,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 73,
@@ -6864,7 +6864,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 73,
@@ -6926,8 +6926,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 50,
@@ -6947,8 +6947,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 110,
@@ -6968,7 +6968,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 43,
@@ -6988,7 +6988,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Dark"
       ],
       "base": {
@@ -7009,7 +7009,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Psychic"
       ],
       "base": {
@@ -7030,7 +7030,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Psychic"
       ],
       "base": {
@@ -7052,7 +7052,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 66,
@@ -7073,7 +7073,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 86,
@@ -7094,7 +7094,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 45,
@@ -7115,7 +7115,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 75,
@@ -7135,7 +7135,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 20,
@@ -7155,7 +7155,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 95,
@@ -7175,7 +7175,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 70,
@@ -7195,7 +7195,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 60,
@@ -7295,8 +7295,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Flying"
+        "grass",
+        "flying"
       ],
       "base": {
         "hp": 99,
@@ -7417,7 +7417,7 @@
       "entry": "",
       "type": [
         "Ice",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 70,
@@ -7438,7 +7438,7 @@
       "entry": "",
       "type": [
         "Ice",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 90,
@@ -7459,7 +7459,7 @@
       "entry": "",
       "type": [
         "Ice",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 110,
@@ -7479,7 +7479,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 35,
@@ -7499,7 +7499,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 55,
@@ -7519,7 +7519,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 55,
@@ -7539,7 +7539,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Rock"
       ],
       "base": {
@@ -7560,7 +7560,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 43,
@@ -7621,7 +7621,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 95,
@@ -7806,7 +7806,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 100,
@@ -7826,7 +7826,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 100,
@@ -7847,7 +7847,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 105,
@@ -7908,7 +7908,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 55,
@@ -7928,7 +7928,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 75,
@@ -7948,8 +7948,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Ground"
+        "grass",
+        "ground"
       ],
       "base": {
         "hp": 95,
@@ -7969,7 +7969,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 44,
@@ -7989,7 +7989,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Fighting"
       ],
       "base": {
@@ -8010,7 +8010,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Fighting"
       ],
       "base": {
@@ -8031,7 +8031,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 53,
@@ -8051,7 +8051,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 64,
@@ -8071,7 +8071,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Steel"
       ],
       "base": {
@@ -8092,8 +8092,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 40,
@@ -8113,8 +8113,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 55,
@@ -8134,8 +8134,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 85,
@@ -8155,7 +8155,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 59,
@@ -8175,8 +8175,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Water"
+        "normal",
+        "water"
       ],
       "base": {
         "hp": 79,
@@ -8196,7 +8196,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 37,
@@ -8216,7 +8216,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 77,
@@ -8236,7 +8236,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 45,
@@ -8256,7 +8256,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 60,
@@ -8276,7 +8276,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 80,
@@ -8296,8 +8296,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 40,
@@ -8317,8 +8317,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 60,
@@ -8420,7 +8420,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 40,
@@ -8440,8 +8440,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Grass"
+        "bug",
+        "grass"
       ],
       "base": {
         "hp": 60,
@@ -8461,8 +8461,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 70,
@@ -8482,8 +8482,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 30,
@@ -8503,8 +8503,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 70,
@@ -8524,7 +8524,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 60,
@@ -8544,7 +8544,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 55,
@@ -8564,7 +8564,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 85,
@@ -8584,7 +8584,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 45,
@@ -8604,7 +8604,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 70,
@@ -8624,7 +8624,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 76,
@@ -8644,8 +8644,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 111,
@@ -8665,7 +8665,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 75,
@@ -8686,7 +8686,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 90,
@@ -8707,7 +8707,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 150,
@@ -8727,7 +8727,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 55,
@@ -8747,7 +8747,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 65,
@@ -8788,7 +8788,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 100,
@@ -8808,7 +8808,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 49,
@@ -8828,7 +8828,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 71,
@@ -8868,7 +8868,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
+        "poison",
         "Dark"
       ],
       "base": {
@@ -8889,7 +8889,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
+        "poison",
         "Dark"
       ],
       "base": {
@@ -8973,7 +8973,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 20,
@@ -8993,7 +8993,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 100,
@@ -9013,8 +9013,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 76,
@@ -9056,7 +9056,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 58,
@@ -9077,7 +9077,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 68,
@@ -9098,7 +9098,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 108,
@@ -9118,7 +9118,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 135,
@@ -9179,7 +9179,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 68,
@@ -9199,7 +9199,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 108,
@@ -9219,8 +9219,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Bug"
+        "poison",
+        "bug"
       ],
       "base": {
         "hp": 40,
@@ -9240,7 +9240,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
+        "poison",
         "Dark"
       ],
       "base": {
@@ -9261,7 +9261,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
+        "poison",
         "Fighting"
       ],
       "base": {
@@ -9282,7 +9282,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
+        "poison",
         "Fighting"
       ],
       "base": {
@@ -9303,7 +9303,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 74,
@@ -9323,7 +9323,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 49,
@@ -9343,7 +9343,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 69,
@@ -9363,8 +9363,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Flying"
+        "water",
+        "flying"
       ],
       "base": {
         "hp": 45,
@@ -9384,7 +9384,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Ice"
       ],
       "base": {
@@ -9405,7 +9405,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Ice"
       ],
       "base": {
@@ -9447,7 +9447,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
+        "electric",
         "Steel"
       ],
       "base": {
@@ -9468,7 +9468,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 110,
@@ -9488,7 +9488,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Rock"
       ],
       "base": {
@@ -9509,7 +9509,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 100,
@@ -9529,7 +9529,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 75,
@@ -9549,7 +9549,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 75,
@@ -9569,8 +9569,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy",
-        "Flying"
+        "fairy",
+        "flying"
       ],
       "base": {
         "hp": 85,
@@ -9590,8 +9590,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 86,
@@ -9611,7 +9611,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 65,
@@ -9651,8 +9651,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
-        "Flying"
+        "ground",
+        "flying"
       ],
       "base": {
         "hp": 75,
@@ -9673,7 +9673,7 @@
       "entry": "",
       "type": [
         "Ice",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 110,
@@ -9693,7 +9693,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 85,
@@ -9796,7 +9796,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
+        "electric",
         "Ghost"
       ],
       "base": {
@@ -9898,7 +9898,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Dragon"
       ],
       "base": {
@@ -9919,7 +9919,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Steel"
       ],
       "base": {
@@ -9940,7 +9940,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 110,
@@ -10001,7 +10001,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 80,
@@ -10021,7 +10021,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 100,
@@ -10061,7 +10061,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 100,
@@ -10081,7 +10081,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 120,
@@ -10102,7 +10102,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 100,
@@ -10122,7 +10122,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 45,
@@ -10142,7 +10142,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 60,
@@ -10162,7 +10162,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 75,
@@ -10182,7 +10182,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 65,
@@ -10202,7 +10202,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Fighting"
       ],
       "base": {
@@ -10223,7 +10223,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Fighting"
       ],
       "base": {
@@ -10244,7 +10244,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 55,
@@ -10264,7 +10264,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 75,
@@ -10284,7 +10284,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 95,
@@ -10304,7 +10304,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 45,
@@ -10324,7 +10324,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 60,
@@ -10344,7 +10344,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 45,
@@ -10364,7 +10364,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 65,
@@ -10384,7 +10384,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 85,
@@ -10444,7 +10444,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 50,
@@ -10464,7 +10464,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 75,
@@ -10484,7 +10484,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 50,
@@ -10504,7 +10504,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 75,
@@ -10524,7 +10524,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -10544,7 +10544,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 75,
@@ -10604,8 +10604,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 50,
@@ -10625,8 +10625,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 62,
@@ -10646,8 +10646,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 80,
@@ -10667,7 +10667,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 45,
@@ -10687,7 +10687,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 75,
@@ -10768,7 +10768,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 65,
@@ -10789,7 +10789,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 67,
@@ -10809,7 +10809,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 60,
@@ -10829,7 +10829,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Steel"
       ],
       "base": {
@@ -10850,7 +10850,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 103,
@@ -10930,7 +10930,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -10950,8 +10950,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 75,
@@ -10971,8 +10971,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Ground"
+        "water",
+        "ground"
       ],
       "base": {
         "hp": 105,
@@ -11032,8 +11032,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Grass"
+        "bug",
+        "grass"
       ],
       "base": {
         "hp": 45,
@@ -11053,8 +11053,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Grass"
+        "bug",
+        "grass"
       ],
       "base": {
         "hp": 55,
@@ -11074,8 +11074,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Grass"
+        "bug",
+        "grass"
       ],
       "base": {
         "hp": 75,
@@ -11095,8 +11095,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 30,
@@ -11116,8 +11116,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 40,
@@ -11137,8 +11137,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Poison"
+        "bug",
+        "poison"
       ],
       "base": {
         "hp": 60,
@@ -11158,8 +11158,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Fairy"
+        "grass",
+        "fairy"
       ],
       "base": {
         "hp": 40,
@@ -11179,8 +11179,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Fairy"
+        "grass",
+        "fairy"
       ],
       "base": {
         "hp": 60,
@@ -11200,7 +11200,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 45,
@@ -11220,7 +11220,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 70,
@@ -11240,7 +11240,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 70,
@@ -11260,7 +11260,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Dark"
       ],
       "base": {
@@ -11281,7 +11281,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Dark"
       ],
       "base": {
@@ -11302,7 +11302,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Dark"
       ],
       "base": {
@@ -11323,7 +11323,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 70,
@@ -11343,7 +11343,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 105,
@@ -11363,7 +11363,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 75,
@@ -11383,7 +11383,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Rock"
       ],
       "base": {
@@ -11404,7 +11404,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Rock"
       ],
       "base": {
@@ -11468,7 +11468,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 72,
@@ -11528,7 +11528,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Rock"
       ],
       "base": {
@@ -11549,7 +11549,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Rock"
       ],
       "base": {
@@ -11571,7 +11571,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 55,
@@ -11592,7 +11592,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 75,
@@ -11612,7 +11612,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 50,
@@ -11632,7 +11632,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 80,
@@ -11692,7 +11692,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 55,
@@ -11712,7 +11712,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 75,
@@ -11852,8 +11852,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Flying"
+        "water",
+        "flying"
       ],
       "base": {
         "hp": 62,
@@ -11873,8 +11873,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Flying"
+        "water",
+        "flying"
       ],
       "base": {
         "hp": 75,
@@ -11954,8 +11954,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Grass"
+        "normal",
+        "grass"
       ],
       "base": {
         "hp": 60,
@@ -11975,8 +11975,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Grass"
+        "normal",
+        "grass"
       ],
       "base": {
         "hp": 80,
@@ -11996,8 +11996,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
-        "Flying"
+        "electric",
+        "flying"
       ],
       "base": {
         "hp": 55,
@@ -12017,7 +12017,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 50,
@@ -12037,7 +12037,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Steel"
       ],
       "base": {
@@ -12058,8 +12058,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 69,
@@ -12079,8 +12079,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Poison"
+        "grass",
+        "poison"
       ],
       "base": {
         "hp": 114,
@@ -12100,7 +12100,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Ghost"
       ],
       "base": {
@@ -12121,7 +12121,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Ghost"
       ],
       "base": {
@@ -12142,7 +12142,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 165,
@@ -12162,8 +12162,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Electric"
+        "bug",
+        "electric"
       ],
       "base": {
         "hp": 50,
@@ -12183,8 +12183,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Electric"
+        "bug",
+        "electric"
       ],
       "base": {
         "hp": 70,
@@ -12204,7 +12204,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Steel"
       ],
       "base": {
@@ -12225,7 +12225,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Steel"
       ],
       "base": {
@@ -12306,7 +12306,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 35,
@@ -12326,7 +12326,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 65,
@@ -12346,7 +12346,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 85,
@@ -12407,7 +12407,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 50,
@@ -12428,7 +12428,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 60,
@@ -12449,7 +12449,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 60,
@@ -12589,7 +12589,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 50,
@@ -12609,7 +12609,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 80,
@@ -12629,8 +12629,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
-        "Electric"
+        "ground",
+        "electric"
       ],
       "base": {
         "hp": 109,
@@ -12710,7 +12710,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Ghost"
       ],
       "base": {
@@ -12731,7 +12731,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
+        "ground",
         "Ghost"
       ],
       "base": {
@@ -12794,7 +12794,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 95,
@@ -12814,8 +12814,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 70,
@@ -12835,8 +12835,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 100,
@@ -12857,7 +12857,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 70,
@@ -12878,7 +12878,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 110,
@@ -12898,7 +12898,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 85,
@@ -12918,7 +12918,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Steel"
       ],
       "base": {
@@ -13002,8 +13002,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Fire"
+        "bug",
+        "fire"
       ],
       "base": {
         "hp": 55,
@@ -13023,8 +13023,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Fire"
+        "bug",
+        "fire"
       ],
       "base": {
         "hp": 85,
@@ -13086,7 +13086,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Fighting"
       ],
       "base": {
@@ -13107,7 +13107,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 79,
@@ -13127,8 +13127,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
-        "Flying"
+        "electric",
+        "flying"
       ],
       "base": {
         "hp": 79,
@@ -13149,7 +13149,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 100,
@@ -13170,7 +13170,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 100,
@@ -13190,8 +13190,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground",
-        "Flying"
+        "ground",
+        "flying"
       ],
       "base": {
         "hp": 89,
@@ -13232,7 +13232,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Fighting"
       ],
       "base": {
@@ -13253,7 +13253,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
+        "normal",
         "Psychic"
       ],
       "base": {
@@ -13274,7 +13274,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Steel"
       ],
       "base": {
@@ -13295,7 +13295,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 56,
@@ -13315,7 +13315,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 61,
@@ -13335,7 +13335,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Fighting"
       ],
       "base": {
@@ -13356,7 +13356,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 40,
@@ -13376,7 +13376,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 59,
@@ -13396,7 +13396,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Psychic"
       ],
       "base": {
@@ -13417,7 +13417,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 41,
@@ -13437,7 +13437,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 54,
@@ -13457,7 +13457,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Dark"
       ],
       "base": {
@@ -13478,7 +13478,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 38,
@@ -13498,8 +13498,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Ground"
+        "normal",
+        "ground"
       ],
       "base": {
         "hp": 85,
@@ -13519,8 +13519,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 45,
@@ -13540,8 +13540,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Flying"
+        "fire",
+        "flying"
       ],
       "base": {
         "hp": 62,
@@ -13561,8 +13561,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Flying"
+        "fire",
+        "flying"
       ],
       "base": {
         "hp": 78,
@@ -13582,7 +13582,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 38,
@@ -13602,7 +13602,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 45,
@@ -13622,8 +13622,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Flying"
+        "bug",
+        "flying"
       ],
       "base": {
         "hp": 80,
@@ -13643,8 +13643,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Normal"
+        "fire",
+        "normal"
       ],
       "base": {
         "hp": 62,
@@ -13664,8 +13664,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Normal"
+        "fire",
+        "normal"
       ],
       "base": {
         "hp": 86,
@@ -13685,7 +13685,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 44,
@@ -13705,7 +13705,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 54,
@@ -13725,7 +13725,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 78,
@@ -13745,7 +13745,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 66,
@@ -13765,7 +13765,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 123,
@@ -13826,7 +13826,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 75,
@@ -13949,7 +13949,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 78,
@@ -13969,7 +13969,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 101,
@@ -13989,7 +13989,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 62,
@@ -14009,7 +14009,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 82,
@@ -14072,7 +14072,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 42,
@@ -14093,7 +14093,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 72,
@@ -14113,8 +14113,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Water"
+        "poison",
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -14134,7 +14134,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
+        "poison",
         "Dragon"
       ],
       "base": {
@@ -14155,7 +14155,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -14175,7 +14175,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 71,
@@ -14195,8 +14195,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
-        "Normal"
+        "electric",
+        "normal"
       ],
       "base": {
         "hp": 44,
@@ -14216,8 +14216,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
-        "Normal"
+        "electric",
+        "normal"
       ],
       "base": {
         "hp": 62,
@@ -14321,7 +14321,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 95,
@@ -14342,7 +14342,7 @@
       "entry": "",
       "type": [
         "Fighting",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 78,
@@ -14362,8 +14362,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
-        "Fairy"
+        "electric",
+        "fairy"
       ],
       "base": {
         "hp": 67,
@@ -14384,7 +14384,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 50,
@@ -14465,7 +14465,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 57,
@@ -14486,7 +14486,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 43,
@@ -14507,7 +14507,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 85,
@@ -14528,7 +14528,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 59,
@@ -14549,7 +14549,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 85,
@@ -14609,7 +14609,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Flying",
+        "flying",
         "Dragon"
       ],
       "base": {
@@ -14630,7 +14630,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Flying",
+        "flying",
         "Dragon"
       ],
       "base": {
@@ -14651,7 +14651,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 126,
@@ -14672,7 +14672,7 @@
       "entry": "",
       "type": [
         "Dark",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 126,
@@ -14693,7 +14693,7 @@
       "entry": "",
       "type": [
         "Dragon",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 108,
@@ -14714,7 +14714,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 50,
@@ -14755,8 +14755,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Water"
+        "fire",
+        "water"
       ],
       "base": {
         "hp": 80,
@@ -14776,8 +14776,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Flying"
+        "grass",
+        "flying"
       ],
       "base": {
         "hp": 68,
@@ -14797,8 +14797,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Flying"
+        "grass",
+        "flying"
       ],
       "base": {
         "hp": 78,
@@ -14818,7 +14818,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Ghost"
       ],
       "base": {
@@ -14839,7 +14839,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 45,
@@ -14859,7 +14859,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire"
+        "fire"
       ],
       "base": {
         "hp": 65,
@@ -14879,7 +14879,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Dark"
       ],
       "base": {
@@ -14900,7 +14900,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -14920,7 +14920,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 60,
@@ -14940,8 +14940,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Fairy"
+        "water",
+        "fairy"
       ],
       "base": {
         "hp": 80,
@@ -14961,8 +14961,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 35,
@@ -14982,8 +14982,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 55,
@@ -15003,8 +15003,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
-        "Flying"
+        "normal",
+        "flying"
       ],
       "base": {
         "hp": 80,
@@ -15024,7 +15024,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 48,
@@ -15044,7 +15044,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 88,
@@ -15064,7 +15064,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug"
+        "bug"
       ],
       "base": {
         "hp": 47,
@@ -15084,8 +15084,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Electric"
+        "bug",
+        "electric"
       ],
       "base": {
         "hp": 57,
@@ -15105,8 +15105,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Electric"
+        "bug",
+        "electric"
       ],
       "base": {
         "hp": 77,
@@ -15167,8 +15167,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
-        "Flying"
+        "fire",
+        "flying"
       ],
       "base": {
         "hp": 75,
@@ -15188,8 +15188,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Fairy"
+        "bug",
+        "fairy"
       ],
       "base": {
         "hp": 40,
@@ -15209,8 +15209,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Fairy"
+        "bug",
+        "fairy"
       ],
       "base": {
         "hp": 60,
@@ -15270,7 +15270,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 45,
@@ -15290,8 +15290,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Water"
+        "poison",
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -15311,8 +15311,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Water"
+        "poison",
+        "water"
       ],
       "base": {
         "hp": 50,
@@ -15332,7 +15332,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 70,
@@ -15352,7 +15352,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 100,
@@ -15372,8 +15372,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Bug"
+        "water",
+        "bug"
       ],
       "base": {
         "hp": 38,
@@ -15393,8 +15393,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Bug"
+        "water",
+        "bug"
       ],
       "base": {
         "hp": 68,
@@ -15414,7 +15414,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 40,
@@ -15434,7 +15434,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 70,
@@ -15454,8 +15454,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Fairy"
+        "grass",
+        "fairy"
       ],
       "base": {
         "hp": 40,
@@ -15475,8 +15475,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Fairy"
+        "grass",
+        "fairy"
       ],
       "base": {
         "hp": 60,
@@ -15496,8 +15496,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Fire"
+        "poison",
+        "fire"
       ],
       "base": {
         "hp": 48,
@@ -15517,8 +15517,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
-        "Fire"
+        "poison",
+        "fire"
       ],
       "base": {
         "hp": 68,
@@ -15538,7 +15538,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
+        "normal",
         "Fighting"
       ],
       "base": {
@@ -15559,7 +15559,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
+        "normal",
         "Fighting"
       ],
       "base": {
@@ -15580,7 +15580,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 42,
@@ -15600,7 +15600,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 52,
@@ -15620,7 +15620,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 72,
@@ -15640,7 +15640,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 51,
@@ -15660,7 +15660,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
+        "normal",
         "Psychic"
       ],
       "base": {
@@ -15701,8 +15701,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Water"
+        "bug",
+        "water"
       ],
       "base": {
         "hp": 25,
@@ -15722,8 +15722,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
-        "Water"
+        "bug",
+        "water"
       ],
       "base": {
         "hp": 75,
@@ -15744,7 +15744,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 55,
@@ -15765,7 +15765,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Ground"
+        "ground"
       ],
       "base": {
         "hp": 85,
@@ -15785,7 +15785,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water"
+        "water"
       ],
       "base": {
         "hp": 55,
@@ -15805,7 +15805,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 95,
@@ -15825,7 +15825,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 95,
@@ -15846,7 +15846,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 60,
@@ -15866,7 +15866,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal"
+        "normal"
       ],
       "base": {
         "hp": 65,
@@ -15886,7 +15886,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Dragon"
       ],
       "base": {
@@ -15907,7 +15907,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
+        "electric",
         "Steel"
       ],
       "base": {
@@ -15929,7 +15929,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 55,
@@ -15949,7 +15949,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
+        "water",
         "Psychic"
       ],
       "base": {
@@ -15970,7 +15970,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Normal",
+        "normal",
         "Dragon"
       ],
       "base": {
@@ -15992,7 +15992,7 @@
       "entry": "",
       "type": [
         "Ghost",
-        "Grass"
+        "grass"
       ],
       "base": {
         "hp": 70,
@@ -16074,8 +16074,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric",
-        "Fairy"
+        "electric",
+        "fairy"
       ],
       "base": {
         "hp": 70,
@@ -16096,7 +16096,7 @@
       "entry": "",
       "type": [
         "Psychic",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 70,
@@ -16116,8 +16116,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
-        "Fairy"
+        "grass",
+        "fairy"
       ],
       "base": {
         "hp": 70,
@@ -16137,8 +16137,8 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Water",
-        "Fairy"
+        "water",
+        "fairy"
       ],
       "base": {
         "hp": 70,
@@ -16241,7 +16241,7 @@
       "entry": "",
       "type": [
         "Rock",
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 109,
@@ -16261,7 +16261,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Fighting"
       ],
       "base": {
@@ -16282,7 +16282,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Bug",
+        "bug",
         "Fighting"
       ],
       "base": {
@@ -16303,7 +16303,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 83,
@@ -16324,7 +16324,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Flying"
+        "flying"
       ],
       "base": {
         "hp": 97,
@@ -16344,7 +16344,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Grass",
+        "grass",
         "Steel"
       ],
       "base": {
@@ -16407,7 +16407,7 @@
       "entry": "",
       "type": [
         "Steel",
-        "Fairy"
+        "fairy"
       ],
       "base": {
         "hp": 80,
@@ -16448,7 +16448,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison"
+        "poison"
       ],
       "base": {
         "hp": 67,
@@ -16468,7 +16468,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Poison",
+        "poison",
         "Dragon"
       ],
       "base": {
@@ -16510,7 +16510,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Fire",
+        "fire",
         "Ghost"
       ],
       "base": {
@@ -16531,7 +16531,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Electric"
+        "electric"
       ],
       "base": {
         "hp": 88,
