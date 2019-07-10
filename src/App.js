@@ -28,6 +28,7 @@ function App() {
               className="lazy"
             />
             <p>HP {pokemon.base.hp}</p>
+            <p>Type {pokemon.type[0]}</p>
             <p>Attack {pokemon.base.attack}</p>
             <p>Defense {pokemon.base.defense}</p>
             <p>Special Attack {pokemon.base.sp_attack}</p> 
