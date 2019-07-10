@@ -4,6 +4,8 @@ import yall from "yall-js";
 import "./App.css";
 import pokedex from "./pokedex.json";
 
+//inspired by https://codepen.io/csb324/pen/MXVaLj
+
 function App() {
   console.log(pokedex);
   document.addEventListener("DOMContentLoaded", function() {

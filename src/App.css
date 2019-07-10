@@ -174,33 +174,33 @@ img {
 .card--fairy .card__type {
   background: #ff8a95;
 }
-.card:nth-child(1) {
+/* .card:nth-child(1n) {
   transform: translateY(0px) rotate(4deg);
 }
-.card:nth-child(2) {
+.card:nth-child(2n) {
   transform: translateY(0px) rotate(-2deg);
 }
-.card:nth-child(3) {
+.card:nth-child(3n) {
   transform: translateY(0px) rotate(-2deg);
 }
-.card:nth-child(4) {
+.card:nth-child(4n) {
   transform: translateY(0px) rotate(1deg);
 }
-.card:nth-child(5) {
+.card:nth-child(5n) {
   transform: translateY(0px) rotate(-2deg);
 }
-.card:nth-child(6) {
+.card:nth-child(6n) {
   transform: translateY(0px) rotate(-4deg);
 }
-.card:nth-child(7) {
+.card:nth-child(7n) {
   transform: translateY(0px) rotate(-5deg);
 }
-.card:nth-child(8) {
+.card:nth-child(8n) {
   transform: translateY(0px) rotate(-5deg);
 }
-.card:nth-child(9) {
+.card:nth-child(9n) {
   transform: translateY(0px) rotate(2deg);
-}
+} */
 .card:hover {
   z-index: 5;
   box-shadow: 0px 13px 30px -15px #000;
