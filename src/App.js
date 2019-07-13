@@ -1,5 +1,8 @@
 import React, { Component } from "react"
+
 import data from "./pokedex.json"
+import Card from "./components/Card"
+import Nav from "./components/Nav"
 
 let firstMon = 1,
 	lastMon = 151
@@ -10,14 +13,7 @@ export default class App extends Component {
 		pokedexFiltered: []
 	}
 
-	componentDidMount() {
-		console.log(this.state.pokedex)
-		this.setState({
-			pokedexFiltered: this.state.pokedex.filter(mon => mon.id >= firstMon && mon.id <= lastMon)
-		})
-	}
-
-	switchGen(gen) {
+	switchGen = (gen) => {
 		switch (gen) {
 			case 1:
 				firstMon = 1
@@ -57,97 +53,51 @@ export default class App extends Component {
 		console.log(this.state.pokedexFiltered)
 	}
 
-	render() {
-		return (
-			<div className="wrapper">
-				<nav>
-					<button
-						onClick={() => {
-							this.switchGen(1)
-						}}
-					>
-						1
-					</button>
-					<button
-						onClick={() => {
-							this.switchGen(2)
-						}}
-					>
-						2
-					</button>
-					<button
-						onClick={() => {
-							this.switchGen(3)
-						}}
-					>
-						3
-					</button>
-					<button
-						onClick={() => {
-							this.switchGen(4)
-						}}
-					>
-						4
-					</button>
-					<button
-						onClick={() => {
-							this.switchGen(5)
-						}}
-					>
-						5
-					</button>
-					<button
-						onClick={() => {
-							this.switchGen(6)
-						}}
-					>
-						6
-					</button>
-					<button
-						onClick={() => {
-							this.switchGen(7)
-						}}
-					>
-						7
-					</button>
-				</nav>
+	componentDidMount() {
+		console.log(this.state.pokedex)
+		this.switchGen(1)
+	}
 
-				{this.state.pokedexFiltered.map(mon => (
-					<div key={mon.id} id={mon.id} className={`card card-${mon.type[0]}`}>
-						<div className="card-title">
-							<h3 className="card-name">{mon.name}</h3>{" "}
-							<div className="card-hp>">
-								<span className="card-hp-label">HP&nbsp;</span>
-								<h3 className="card-hp">{mon.base.hp}</h3>
-							</div>
-						</div>
-						<div className="card-image-container">
-							<img data-src={`img/${(mon.id + "").padStart(3, "0")}.png`} alt={mon.name} className="lazy" />
-						</div>
-						<div className="card-caption">
-							<h3 className="card-info card-num">#{(mon.id + "").padStart(3, "0")}</h3>
-							<h3 className="card-info card-type">{mon.type[0]}</h3>
-							<div className="card-stats">
-								<p>
-									Attack <span>{mon.base.attack}</span>
-								</p>
-								<p>
-									Sp. Attack <span>{mon.base.sp_attack}</span>
-								</p>
-								<p>
-									Defense <span>{mon.base.defense}</span>
-								</p>
-								<p>
-									Sp. Defense <span>{mon.base.sp_defense}</span>
-								</p>
-								<p>
-									Speed <span>{mon.base.speed}</span>
-								</p>
-							</div>
-						</div>
-					</div>
+	passedFunction = () => {
+		alert("asdf")
+	}
+
+	render() {
+		const generations = [
+			{ id: 1, name: "Kanto" },
+			{ id: 2, name: "Johto" },
+			{ id: 3, name: "Hoenn" },
+			{ id: 4, name: "Sinnoh" },
+			{ id: 5, name: "Unova" },
+			{ id: 6, name: "Kalos" },
+			{ id: 7, name: "Alola" }
+			//{ id: "8", name: "Galar" },
+		]
+		
+		const links = generations.map(({ id, name }) => {
+			return (
+				<button
+					key={id}
+					onClick={() => {
+						this.switchGen(id)
+					}}
+				>
+					{name}
+				</button>
+			)
+		})
+
+		const { pokedexFiltered } = this.state;
+	
+		return (
+			<>
+			<nav>{links}</nav>
+			<div className="wrapper">
+				{ pokedexFiltered.map(mon => (
+					<Card key={mon.id} mon={mon} />
 				))}
 			</div>
+			</>
 		)
 	}
 }
