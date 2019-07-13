@@ -4,19 +4,30 @@ import pokedex from "./pokedex.json";
 //inspired by https://codepen.io/csb324/pen/MXVaLj
 //inspiration 2: https://cdn.dribbble.com/users/1246853/screenshots/3902471/mon.png
 
-function App() {
-  console.log(pokedex);
+let firstMon = 1;
+let lastMon = 151;
+
+class App extends React.Component {
+
+  componentDidMount(){
+    console.log(pokedex);
+  }
+  
+  render(){
   return (
     <div className="App">
       <div className="wrapper">
+        <nav>
+          <button>1</button>
+          <button>2</button>
+        </nav>
         {pokedex
-          .filter(mon => mon.id < 152)
+          .filter(mon => mon.id >= firstMon && mon.id <= lastMon)
           .map(mon => (
             <div
               key={mon.id}
               id={mon.id}
               className={`card card-${mon.type[0]}`}
-              dataitlt
             >
               <div className="card-title">
                 <h3 className="card-name">{mon.name}</h3>{" "}
@@ -50,7 +61,9 @@ function App() {
                   <p>
                     Sp. Defense <span>{mon.base.sp_defense}</span>
                   </p>
-                  <p>Speed <span>{mon.base.speed}</span></p>
+                  <p>
+                    Speed <span>{mon.base.speed}</span>
+                  </p>
                 </div>
               </div>
             </div>
@@ -59,5 +72,5 @@ function App() {
     </div>
   );
 }
-
+}
 export default App;
