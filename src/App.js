@@ -1,8 +1,9 @@
 import React, { Component } from "react"
 
 import data from "./pokedex.json"
+import Header from "./components/Header"
 import Card from "./components/Card"
-import Nav from "./components/Nav"
+import Footer from "./components/Footer"
 
 let firstMon = 1,
 	lastMon = 151
@@ -13,9 +14,13 @@ export default class App extends Component {
 		pokedexFiltered: []
 	}
 
-	switchGen = (gen) => {
+	switchGen = gen => {
 		switch (gen) {
-			case 1:
+			case 0:
+				firstMon = 1
+				lastMon = 809
+				break
+				case 1:
 				firstMon = 1
 				lastMon = 151
 				break
@@ -55,11 +60,9 @@ export default class App extends Component {
 
 	componentDidMount() {
 		console.log(this.state.pokedex)
-		this.switchGen(1)
-	}
-
-	passedFunction = () => {
-		alert("asdf")
+		this.setState({
+			pokedexFiltered: this.state.pokedex.filter(mon => mon.id >= firstMon && mon.id <= lastMon)
+		})
 	}
 
 	render() {
@@ -70,10 +73,11 @@ export default class App extends Component {
 			{ id: 4, name: "Sinnoh" },
 			{ id: 5, name: "Unova" },
 			{ id: 6, name: "Kalos" },
-			{ id: 7, name: "Alola" }
+			{ id: 7, name: "Alola" },
 			//{ id: "8", name: "Galar" },
+			{ id: 0, name: "National" },
 		]
-		
+
 		const links = generations.map(({ id, name }) => {
 			return (
 				<button
@@ -87,16 +91,16 @@ export default class App extends Component {
 			)
 		})
 
-		const { pokedexFiltered } = this.state;
-	
 		return (
 			<>
-			<nav>{links}</nav>
-			<div className="wrapper">
-				{ pokedexFiltered.map(mon => (
-					<Card key={mon.id} mon={mon} />
-				))}
-			</div>
+				<Header />
+				<nav>{links}</nav>
+				<div className="wrapper">
+					{this.state.pokedexFiltered.map(mon => (
+						<Card key={mon.id} mon={mon} />
+					))}
+				</div>
+				<Footer />
 			</>
 		)
 	}

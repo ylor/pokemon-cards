@@ -412,7 +412,7 @@
     },
     {
       "id": 21,
-      "name": "spearow",
+      "name": "Spearow",
       "height": "",
       "weight": "",
       "entry": "",
@@ -1644,7 +1644,7 @@
       "entry": "",
       "type": [
         "electric",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 25,
@@ -1665,7 +1665,7 @@
       "entry": "",
       "type": [
         "electric",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 50,
@@ -4178,7 +4178,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 75,
@@ -4239,7 +4239,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "ground"
       ],
       "base": {
@@ -4322,7 +4322,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 70,
@@ -4631,7 +4631,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "flying"
       ],
       "base": {
@@ -6188,7 +6188,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "fairy"
       ],
       "base": {
@@ -6209,7 +6209,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "rock"
       ],
       "base": {
@@ -6230,7 +6230,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "rock"
       ],
       "base": {
@@ -6251,7 +6251,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "rock"
       ],
       "base": {
@@ -7641,7 +7641,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "psychic"
       ],
       "base": {
@@ -7662,7 +7662,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "psychic"
       ],
       "base": {
@@ -7683,7 +7683,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "psychic"
       ],
       "base": {
@@ -7744,7 +7744,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 80,
@@ -7867,7 +7867,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "psychic"
       ],
       "base": {
@@ -8072,7 +8072,7 @@
       "entry": "",
       "type": [
         "water",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 84,
@@ -8379,7 +8379,7 @@
       "entry": "",
       "type": [
         "rock",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 30,
@@ -8400,7 +8400,7 @@
       "entry": "",
       "type": [
         "rock",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 60,
@@ -8910,7 +8910,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "psychic"
       ],
       "base": {
@@ -8931,7 +8931,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "psychic"
       ],
       "base": {
@@ -9159,7 +9159,7 @@
       "entry": "",
       "type": [
         "fighting",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 70,
@@ -9448,7 +9448,7 @@
       "entry": "",
       "type": [
         "electric",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 70,
@@ -9735,7 +9735,7 @@
       "entry": "",
       "type": [
         "rock",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 60,
@@ -9877,7 +9877,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "dragon"
       ],
       "base": {
@@ -9920,7 +9920,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 91,
@@ -10830,7 +10830,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 110,
@@ -12038,7 +12038,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 70,
@@ -12205,7 +12205,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 44,
@@ -12226,7 +12226,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 74,
@@ -12246,7 +12246,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 40,
@@ -12266,7 +12266,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 60,
@@ -12286,7 +12286,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 60,
@@ -12753,7 +12753,7 @@
       "entry": "",
       "type": [
         "dark",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 45,
@@ -12774,7 +12774,7 @@
       "entry": "",
       "type": [
         "dark",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 65,
@@ -12919,7 +12919,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 58,
@@ -13044,7 +13044,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "fighting"
       ],
       "base": {
@@ -13275,7 +13275,7 @@
       "entry": "",
       "type": [
         "bug",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 71,
@@ -13886,7 +13886,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "ghost"
       ],
       "base": {
@@ -13907,7 +13907,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "ghost"
       ],
       "base": {
@@ -13928,7 +13928,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "ghost"
       ],
       "base": {
@@ -14464,7 +14464,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "fairy"
       ],
       "base": {
@@ -15908,7 +15908,7 @@
       "entry": "",
       "type": [
         "electric",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 65,
@@ -16199,7 +16199,7 @@
       "entry": "",
       "type": [
         "psychic",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 137,
@@ -16323,7 +16323,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "flying"
       ],
       "base": {
@@ -16345,7 +16345,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 59,
@@ -16406,7 +16406,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel",
+        "steel",
         "fairy"
       ],
       "base": {
@@ -16490,7 +16490,7 @@
       "entry": "",
       "type": [
         "rock",
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 61,
@@ -16551,7 +16551,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 46,
@@ -16571,7 +16571,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Steel"
+        "steel"
       ],
       "base": {
         "hp": 135,
