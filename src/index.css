@@ -144,7 +144,7 @@ footer {
 }
 
 .card-hp-label {
-  font-size: 75%;
+  font-size: .9rem;
 }
 
 .card-label {
@@ -171,7 +171,8 @@ footer {
   height: 275px;
   bottom: 20px;
   margin: 0;
-  filter: drop-shadow(12px 12px 12px rgba(0, 0, 0, 0.666));
+	filter: drop-shadow(12px 12px 12px rgba(0, 0, 0, 0.666));
+	z-index: 1;
 }
 
 .card-info {
@@ -213,14 +214,12 @@ footer {
 }
 
 .card-stats p {
-  margin: 2px;
+	font-family: "Open Sans Condensed";
+	font-size: 1.25rem;
+	letter-spacing: -0.01em;
+	margin: 2px;
   padding: 0;
   line-height: 1.25;
-}
-
-.card-stats p {
-  font-family: "Open Sans Condensed";
-  letter-spacing: -0.01em;
 }
 
 .card-stats span {
