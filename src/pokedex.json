@@ -4014,7 +4014,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 95,
@@ -4034,7 +4034,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "flying"
       ],
       "base": {
@@ -4384,7 +4384,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "ice"
       ],
       "base": {
@@ -4652,7 +4652,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "fire"
       ],
       "base": {
@@ -4673,7 +4673,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "fire"
       ],
       "base": {
@@ -5059,7 +5059,7 @@
       "entry": "",
       "type": [
         "rock",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 100,
@@ -5326,7 +5326,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 35,
@@ -5346,7 +5346,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 70,
@@ -5592,7 +5592,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 70,
@@ -5613,7 +5613,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 90,
@@ -6167,7 +6167,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "ghost"
       ],
       "base": {
@@ -6496,7 +6496,7 @@
       "entry": "",
       "type": [
         "water",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 45,
@@ -6517,7 +6517,7 @@
       "entry": "",
       "type": [
         "water",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 70,
@@ -6782,7 +6782,7 @@
       "entry": "",
       "type": [
         "grass",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 70,
@@ -6989,7 +6989,7 @@
       "entry": "",
       "type": [
         "water",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 63,
@@ -7336,7 +7336,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 65,
@@ -8787,7 +8787,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "flying"
       ],
       "base": {
@@ -8869,7 +8869,7 @@
       "entry": "",
       "type": [
         "poison",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 63,
@@ -8890,7 +8890,7 @@
       "entry": "",
       "type": [
         "poison",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 103,
@@ -9035,7 +9035,7 @@
       "entry": "",
       "type": [
         "ghost",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 50,
@@ -9241,7 +9241,7 @@
       "entry": "",
       "type": [
         "poison",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 70,
@@ -9426,7 +9426,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "ice"
       ],
       "base": {
@@ -10036,12 +10036,12 @@
     },
     {
       "id": 491,
-      "name": "Darkrai",
+      "name": "darkrai",
       "height": "",
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 70,
@@ -10404,7 +10404,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 41,
@@ -10424,7 +10424,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 64,
@@ -11261,7 +11261,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 50,
@@ -11282,7 +11282,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 60,
@@ -11303,7 +11303,7 @@
       "entry": "",
       "type": [
         "ground",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 95,
@@ -11425,7 +11425,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "fighting"
       ],
       "base": {
@@ -11446,7 +11446,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "fighting"
       ],
       "base": {
@@ -11652,7 +11652,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 40,
@@ -11672,7 +11672,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 60,
@@ -12752,7 +12752,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "Steel"
       ],
       "base": {
@@ -12773,7 +12773,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "Steel"
       ],
       "base": {
@@ -12856,7 +12856,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "flying"
       ],
       "base": {
@@ -12877,7 +12877,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "flying"
       ],
       "base": {
@@ -12939,7 +12939,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "dragon"
       ],
       "base": {
@@ -12960,7 +12960,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "dragon"
       ],
       "base": {
@@ -12981,7 +12981,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "dragon"
       ],
       "base": {
@@ -13458,7 +13458,7 @@
       "entry": "",
       "type": [
         "water",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 72,
@@ -13806,7 +13806,7 @@
       "entry": "",
       "type": [
         "fighting",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 95,
@@ -14029,7 +14029,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "psychic"
       ],
       "base": {
@@ -14050,7 +14050,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "psychic"
       ],
       "base": {
@@ -14671,7 +14671,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "flying"
       ],
       "base": {
@@ -14880,7 +14880,7 @@
       "entry": "",
       "type": [
         "fire",
-        "Dark"
+        "dark"
       ],
       "base": {
         "hp": 95,
@@ -16365,7 +16365,7 @@
       "weight": "",
       "entry": "",
       "type": [
-        "Dark",
+        "dark",
         "dragon"
       ],
       "base": {

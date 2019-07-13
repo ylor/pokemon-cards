@@ -3,24 +3,30 @@
 body {
 	font-family: -apple-system, BlinkMacSystemFont, "Open Sans", Helvetica, sans-serif;
 	background: #f4f4f4;
+	width: 90vw;
 }
 
 img {
-	z-index: 2;
-	position: absolute;
-	height: 300px;
-	margin: 0;
+	/* 
+	position: absolute; 
 	bottom: 150px;
-	right: 10px;
+	right: 10px;*/
+	z-index: 2;
+	position: relative;
+	height: 290px;
+	bottom: 25px;
+	margin: 0;
+	filter: drop-shadow(12px 12px 12px rgba(0, 0, 0, 0.666));
 }
 
 nav {
-	display: block;
+	display: flex;
+	align-items: center;
 	margin: 0 auto;
 }
 
 #root {
-	width: 90vw;
+	margin: 0 auto;
 }
 
 .wrapper {
@@ -38,6 +44,20 @@ nav {
 	box-shadow: 0px 5px 20px -10px #111;
 	position: relative;
 	transition: all 0.3s ease-in-out;
+	animation: scale-in-center 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+@keyframes scale-in-center {
+	0% {
+		-webkit-transform: scale(0);
+		transform: scale(0);
+		opacity: 0;
+	}
+	100% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+		opacity: 1;
+	}
 }
 
 .card:hover {
@@ -68,14 +88,14 @@ nav {
 }
 
 .card-caption {
-	background-color: rgba(255, 255, 255, 0.666);
+	background-color: rgba(255, 255, 255, 0.5);
 	padding: 1em;
 	position: relative;
-	border-radius: 0 0 3px 3px;
+	border-radius: 12px;
 }
 .card-image-container {
 	height: 250px;
-	background-color: rgba(0, 0, 0, 0.666);
+	background-color: rgba(0, 0, 0, 0);
 	text-align: center;
 	padding: 0;
 	border-radius: 3px 3px 0 0;
@@ -94,6 +114,7 @@ nav {
 	line-height: 1;
 	border-radius: 2px;
 	background: #bbb;
+	filter: drop-shadow(2px 4px 3px rgba(0, 0, 0, 0.33));
 }
 
 .card-num {
@@ -108,7 +129,6 @@ nav {
 	font-size: 10px;
 	text-transform: uppercase;
 	font-weight: 400;
-	display: block;
 	margin-bottom: 3px;
 }
 .card-name {
@@ -120,10 +140,6 @@ nav {
 }
 
 .card-stats {
-	display: flex;
-	flex-wrap: wrap;
-	flex-direction: column;
-	justify-content: center;
 	text-align: center;
 	margin: 0 auto;
 	width: 100%;
