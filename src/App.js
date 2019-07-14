@@ -1,5 +1,4 @@
 import React, { Component } from "react"
-import LazyLoad from 'react-lazyload';
 
 import data from "./pokedex.json"
 import Header from "./components/Header"
@@ -98,8 +97,7 @@ export default class App extends Component {
 				<nav>{links}</nav>
 				<div className="wrapper">
 					{this.state.pokedexFiltered.map(mon => (
-						<LazyLoad height={200} once >
-						<Card key={mon.id} mon={mon} /></LazyLoad>
+						<Card key={mon.id} mon={mon} />
 					))}
 				</div>
 				<Footer />
