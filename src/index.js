@@ -6,8 +6,6 @@ import App from './App';
 
 require('typeface-inter')
 require('typeface-open-sans-condensed')
-require('typeface-roboto')
-require('typeface-roboto-condensed')
 
 document.addEventListener("DOMContentLoaded", yall);
 
