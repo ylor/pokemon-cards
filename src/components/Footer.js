@@ -3,7 +3,7 @@ import React from "react"
 export default function Footer() {
 	return (
 		<footer>
-			<span>Made with &hearts;</span>
+			<span><a href="https://github.com/ylor/pokemon-cards">Made with &hearts;</a></span>
 		</footer>
 	)
 }
