@@ -7,6 +7,10 @@ import App from './App';
 require('typeface-inter')
 require('typeface-open-sans-condensed')
 
-document.addEventListener("DOMContentLoaded", yall);
+document.addEventListener("DOMContentLoaded", () => {
+  yall({
+    observeChanges: true
+  });
+});
 
 ReactDOM.render(<App />, document.getElementById('root'));

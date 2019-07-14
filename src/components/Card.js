@@ -6,14 +6,14 @@ export default function Card(props) {
 	return (
 		<div key={mon.id} id={mon.id} className={`card card-${mon.type[0]}`}>
 			<div className="card-title">
-				<h3 className="card-name">{mon.name}</h3>{" "}
-				<div className="card-hp>">
+				<h3 className="card-name">{mon.name}</h3>
+				<div>
 					<span className="card-hp-label">HP&nbsp;</span>
 					<h3 className="card-hp">{mon.base.hp}</h3>
 				</div>
 			</div>
 			<div className="card-image-container">
-				<img data-src={`img/${(mon.id + "").padStart(3, "0")}.png`} alt={mon.name} className="lazy" />
+				<img data-src={`img/${padNumber(mon.id)}.png`} alt={mon.name} className="lazy" />
 			</div>
 			<div className="card-caption">
 				<h3 className="card-info card-num">#{padNumber(mon.id)}</h3>
