@@ -1,8 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700");
-:root {}
+:root {
+  --font-stack: -apple-system, BlinkMacSystemFont, "Inter var", Helvetica, sans-serif;
+  --font-condensed: "Open Sans Condensed", helvetica, sans-serif;
+  --font-mono: ;
+  --color-bg: ;
+  --color-fg: ;
+
+}
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Open Sans", Helvetica, sans-serif;
+  font-family: var(--font-stack);
   background-color: #fff;
 }
 
@@ -121,22 +127,21 @@ footer {
   justify-content: space-between;
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: 4px;
-  padding: 0.1em 0.5em;
+  padding: 0.33em 0.5em;
 }
 
 .card-title h3 {
   margin: 0;
-  margin-bottom: 4px;
   padding: 0;
   line-height: 1;
 }
 
 .card-name {
-  font-family: "Open Sans Condensed", "Open Sans", helvetica, sans-serif;
+  font-family: var(--font-condensed);
   text-align: center;
   font-size: 1.5em;
   font-weight: 700;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.025em;
 }
 
 .card-hp {
@@ -181,7 +186,7 @@ footer {
   transform: translateY(-100%);
   color: #fff;
   text-transform: uppercase;
-  font-family: "Open Sans Condensed", "Open Sans", helvetica, sans-serif;
+  font-family: var(--font-condensed);
   letter-spacing: 0.1em;
   padding: 0.25em;
   line-height: 1;
@@ -214,20 +219,22 @@ footer {
 }
 
 .card-stats p {
-	font-family: "Open Sans Condensed";
+  font-family: var(--font-condensed);
 	font-size: 1.25rem;
-	letter-spacing: -0.01em;
 	margin: 2px;
   padding: 0;
   line-height: 1.25;
+  letter-spacing: 0.025em;
 }
 
 .card-stats span {
-  font-family: "Open Sans";
+  font-weight: 400;
+  letter-spacing: 0;
+  font-family: var(--font-stack);
 }
 
 .card-stats th {
-  font-family: "Open Sans Condensed", "Open Sans", helvetica, sans-serif;
+  font-family: var(--font-condensed);
   text-align: right;
   font-weight: 300;
 }
