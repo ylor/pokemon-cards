@@ -1,18 +1,20 @@
 import React, { useState, useEffect } from "react";
 
-import data from "./pokedex.json";
 import Header from "./components/Header";
 import Card from "./components/Card";
 import Footer from "./components/Footer";
 
-let firstMon = 1, lastMon = 151;
+import data from "./assets/pokedex.json";
 
 export default function App() {
   const [pokedex, setPokedex] = useState([]);
+  let firstMon = 1,
+    lastMon = 151;
 
   useEffect(() => {
     console.log(data);
-    switchGen();
+    switchGen(1);
+    //eslint-disable-next-line
   }, []);
 
   function switchGen(gen) {
@@ -53,11 +55,10 @@ export default function App() {
         firstMon = 1;
         lastMon = 151;
     }
-    setPokedex(
-      data.filter(mon => mon.id >= firstMon && mon.id <= lastMon)
-    );
+    setPokedex(data.filter(mon => mon.id >= firstMon && mon.id <= lastMon));
     console.log(pokedex);
   }
+
   const generations = [
     { id: 1, name: "Kanto" },
     { id: 2, name: "Johto" },
@@ -70,7 +71,7 @@ export default function App() {
     { id: 0, name: "National" }
   ];
 
-  const links = generations.map(({ id, name }) => {
+  const buttons = generations.map(({ id, name }) => {
     return (
       <button
         key={id}
@@ -86,7 +87,7 @@ export default function App() {
   return (
     <>
       <Header />
-      <nav>{links}</nav>
+      <nav>{buttons}</nav>
       <div className="wrapper">
         {pokedex.map(mon => (
           <Card key={mon.id} mon={mon} />

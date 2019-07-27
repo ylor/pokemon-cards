@@ -1,11 +1,13 @@
-import React from "react"
+import React from "react";
+
+import Logo from "../assets/logo.svg";
 
 export default function Header() {
-	return (
-		<header>
-			<a href="/">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg" alt="logo" />
-			</a>
-		</header>
-	)
+  return (
+    <header>
+      <a href="/">
+        <img src={Logo} alt="logo" />
+      </a>
+    </header>
+  );
 }
