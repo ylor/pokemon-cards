@@ -49,16 +49,14 @@ button {
   cursor: pointer;
   padding: 12px 24px;
   display: inline-block;
-  margin: 0 2px;
+  margin: 4px 2px;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-weight: 700;
   position: relative;
-  transition: all 0.3s;
   background: #3d7dca;
   color: rgba(255, 255, 255, 0.9);
   box-shadow: 0 6px #3064a1;
-  transition: none;
   border-radius: 5px;
   &:hover {
     box-shadow: 0 4px #3064a1;
@@ -98,7 +96,6 @@ footer {
   position: relative;
   transition: all 0.3s ease-in-out;
   animation: fadein 1s ease;
-  animation: AnimationName 6s ease infinite;
 }
 
 @media (hover: hover) {
@@ -238,149 +235,4 @@ footer {
   flex: 1 0;
 }
 
-.card-bug {
-  background: linear-gradient(145deg, #729f3f, #38ef7d);
-  .card-info {
-    background-color: #729f3f;
-  }
-}
-
-.card-dark {
-  background: linear-gradient(
-    20deg,
-    rgba(25, 25, 25, 1) 0%,
-    rgba(16, 11, 50, 1) 33%,
-    rgba(92, 2, 73, 1) 100%
-  );
-  .card-info {
-    background: #5c0249;
-  }
-}
-
-.card-dragon {
-  background: linear-gradient(to top, #f16e57, #53a4cf);
-  .card-info {
-    background: #53a4cf;
-  }
-}
-
-.card-electric {
-  background: linear-gradient(45deg, #eed535, #e8ff99);
-  .card-info {
-    background-color: #eed535;
-  }
-}
-
-.card-fairy {
-  background: linear-gradient(180deg, #fbd3e9, #bb377d);
-  .card-info {
-    background: #fdb9e9;
-  }
-}
-
-.card-fighting {
-  background: linear-gradient(120deg, #fbd786, #f7797d);
-  .card-info {
-    background: #d56723;
-  }
-}
-
-.card-fire {
-  background: linear-gradient(to top, #f12711, #f5af19);
-  .card-info {
-    background-color: #fd7d24;
-  }
-}
-
-@keyframes AnimationName {
-  0% {
-    background-position: 50% 0%;
-  }
-  50% {
-    background-position: 50% 100%;
-  }
-  100% {
-    background-position: 50% 0%;
-  }
-}
-
-.card-ghost {
-  background: linear-gradient(to top, #6a3093, #a044ff);
-  .card-info {
-    background-color: #7b62a3;
-  }
-}
-
-.card-grass {
-  background: linear-gradient(45deg, #56ab2f, #a8e063);
-  .card-info {
-    background: #9bcc50;
-  }
-}
-
-.card-ground {
-  background: linear-gradient(to bottom, #f7de3f 0%, #ab9842 100%);
-  .card-info {
-    background: #ab9842;
-  }
-}
-
-.card-ice {
-  background: linear-gradient(
-    230deg,
-    rgba(202, 234, 246, 1) 0%,
-    rgba(160, 234, 241, 1) 46%,
-    rgba(111, 184, 235, 1) 100%
-  );
-  .card-info {
-    background: #51c4e7;
-  }
-}
-
-.card-normal {
-  background: linear-gradient(110deg, #fdbb2d 0%, #f2994a 100%);
-  box-shadow: 0px 5px 20px -10px #3a1c71;
-  .card-info {
-    background-color: #c08a53;
-  }
-}
-
-.card-poison {
-  background: linear-gradient(to bottom, #f953c6, #b91d73);
-  .card-info {
-    background: #b97fc9;
-  }
-}
-
-.card-psychic {
-  background: linear-gradient(
-    140deg,
-    rgba(255, 167, 249, 1) 0%,
-    rgba(255, 44, 195, 1) 39%,
-    rgba(255, 227, 167, 1) 100%
-  );
-  .card-info {
-    background: #f366b9;
-  }
-}
-
-.card-rock {
-  background: linear-gradient(to top, #3c3b3f, #a38c21);
-  .card-info {
-    background: #a38c21;
-  }
-}
-
-.card-steel {
-  background: linear-gradient(to top, #c3cbdc 0%, #edf1f4 100%);
-  .card-info {
-    background: #9eb7b8;
-  }
-}
-
-.card-water {
-  background: linear-gradient(to bottom, #74ebd5, #acb6e5);
-  .card-info {
-    background-color: #4592c4;
-  }
-}
+@import "./card-colors.scss";
