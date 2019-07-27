@@ -1,11 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import yall from "yall-js"
-import './index.css';
-import App from './App';
+import React from "react";
+import ReactDOM from "react-dom";
+import yall from "yall-js";
+import "./scss/index.scss";
+import App from "./App";
 
-require('typeface-inter')
-require('typeface-open-sans-condensed')
+require("typeface-inter");
+require("typeface-open-sans-condensed");
 
 document.addEventListener("DOMContentLoaded", () => {
   yall({
@@ -13,4 +13,4 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById("root"));

@@ -2,7 +2,7 @@ import React from "react"
 import { padNumber } from "./Utils"
 
 export default function Card(props) {
-	const mon = props.mon
+	const { mon } = props
 	return (
 		<div key={mon.id} id={mon.id} className={`card card-${mon.type[0]}`}>
 			<div className="card-title">

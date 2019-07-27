@@ -1,10 +1,12 @@
-:root {
-  --font-stack: -apple-system, BlinkMacSystemFont, "Inter var", Helvetica, sans-serif;
-  --font-condensed: "Open Sans Condensed", helvetica, sans-serif;
-  --font-mono: ;
-  --color-bg: ;
-  --color-fg: ;
+@import "./keyframes.scss";
 
+:root {
+  --font-stack: -apple-system, BlinkMacSystemFont, "Inter var", Helvetica,
+    sans-serif;
+  --font-condensed: "Open Sans Condensed", helvetica, sans-serif;
+  --font-mono: monospace;
+  --color-bg: #fff;
+  --color-fg: #fff;
 }
 
 body {
@@ -19,21 +21,18 @@ a {
 header {
   position: sticky;
   text-align: center;
-}
-
-header img {
-  width: 250px;
-}
-
-header h1 {
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-}
-
-header a {
-  color: inherit;
-  text-decoration: none;
+  img {
+    width: 250px;
+  }
+  h1 {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
 }
 
 nav {
@@ -54,12 +53,12 @@ button {
   text-transform: uppercase;
   color: #ffffff;
   background-color: #3369ff;
+  cursor: pointer;
   box-shadow: inset 0 -0.6em 0 -0.35em rgba(0, 0, 0, 0.17);
   border: none;
-}
-
-button:active {
-  top: 0.1em;
+  &:active {
+    top: 0.1em;
+  }
 }
 
 @media all and (max-width: 30em) {
@@ -68,18 +67,6 @@ button:active {
     margin: 0.4em auto;
   }
 }
-
-/* nav button {
-	text-transform: uppercase;
-	padding: .75em;
-	margin: 2px 4px;
-	line-height: 1;
-	border-radius: 2px;
-	background: #3b4cca;
-	color: #f4f4f4;
-	border: 0px;
-	filter: drop-shadow(0px 4px 3px rgba(0, 0, 0, 0.33));
-} */
 
 footer {
   text-align: center;
@@ -102,15 +89,8 @@ footer {
   position: relative;
   transition: all 0.3s ease-in-out;
   animation: fadein 1s ease;
-}
+  animation: AnimationName 6s ease infinite;
 
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
 }
 
 @media (hover: hover) {
@@ -127,12 +107,11 @@ footer {
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: 4px;
   padding: 0.33em 0.5em;
-}
-
-.card-title h3 {
-  margin: 0;
-  padding: 0;
-  line-height: 1;
+  h3 {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+  }
 }
 
 .card-name {
@@ -148,7 +127,7 @@ footer {
 }
 
 .card-hp-label {
-  font-size: .9rem;
+  font-size: 0.9rem;
 }
 
 .card-label {
@@ -175,8 +154,8 @@ footer {
   max-height: 275px;
   bottom: 20px;
   margin: 0;
-	filter: drop-shadow(12px 12px 12px rgba(0, 0, 0, 0.666));
-	z-index: 1;
+  filter: drop-shadow(12px 12px 12px rgba(0, 0, 0, 0.666));
+  z-index: 1;
 }
 
 .card-info {
@@ -215,33 +194,30 @@ footer {
   text-align: center;
   margin: 0 auto;
   width: 100%;
-}
-
-.card-stats p {
-  font-family: var(--font-condensed);
-	font-size: 1.25rem;
-	margin: 2px;
-  padding: 0;
-  line-height: 1.25;
-  letter-spacing: 0.025em;
-}
-
-.card-stats span {
-  font-weight: 400;
-  letter-spacing: 0;
-  font-family: var(--font-stack);
-}
-
-.card-stats th {
-  font-family: var(--font-condensed);
-  text-align: right;
-  font-weight: 300;
-}
-
-.card-stats th,
-.card-stats td {
-  width: 50%;
-  padding: 0.25em 0.5em 0;
+  p {
+    font-family: var(--font-condensed);
+    font-size: 1.25rem;
+    margin: 2px;
+    padding: 0;
+    line-height: 1.25;
+    letter-spacing: 0.025em;
+  }
+  span {
+    font-weight: 400;
+    letter-spacing: 0;
+    font-family: var(--font-stack);
+  }
+  th {
+    font-family: var(--font-condensed);
+    text-align: right;
+    font-weight: 300;
+    width: 50%;
+    padding: 0.25em 0.5em 0;
+  }
+  td {
+    width: 50%;
+    padding: 0.25em 0.5em 0;
+  }
 }
 
 .card-abilities {
@@ -256,137 +232,147 @@ footer {
 
 .card-bug {
   background: linear-gradient(145deg, #729f3f, #38ef7d);
-}
-
-.card-bug .card-info {
-  background-color: #729f3f;
+  .card-info {
+    background-color: #729f3f;
+  }
 }
 
 .card-dark {
-  background: linear-gradient(20deg, rgba(25, 25, 25, 1) 0%, rgba(16, 11, 50, 1) 33%, rgba(92, 2, 73, 1) 100%);
-}
-
-.card-dark .card-info {
-  background: #5c0249;
+  background: linear-gradient(
+    20deg,
+    rgba(25, 25, 25, 1) 0%,
+    rgba(16, 11, 50, 1) 33%,
+    rgba(92, 2, 73, 1) 100%
+  );
+  .card-info {
+    background: #5c0249;
+  }
 }
 
 .card-dragon {
   background: linear-gradient(to top, #f16e57, #53a4cf);
-}
-
-.card-dragon .card-info {
-  background: #53a4cf;
+  .card-info {
+    background: #53a4cf;
+  }
 }
 
 .card-electric {
   background: linear-gradient(45deg, #eed535, #e8ff99);
-}
-
-.card-electric .card-info {
-  background-color: #eed535;
+  .card-info {
+    background-color: #eed535;
+  }
 }
 
 .card-fairy {
   background: linear-gradient(180deg, #fbd3e9, #bb377d);
-}
-
-.card-fairy .card-info {
-  background: #fdb9e9;
+  .card-info {
+    background: #fdb9e9;
+  }
 }
 
 .card-fighting {
   background: linear-gradient(120deg, #fbd786, #f7797d);
-}
-
-.card-fighting .card-info {
-  background: #d56723;
+  .card-info {
+    background: #d56723;
+  }
 }
 
 .card-fire {
   background: linear-gradient(to top, #f12711, #f5af19);
+  .card-info {
+    background-color: #fd7d24;
+  }
 }
 
-.card-fire .card-info {
-  background-color: #fd7d24;
+@keyframes AnimationName {
+  0% {
+    background-position: 50% 0%;
+  }
+  50% {
+    background-position: 50% 100%;
+  }
+  100% {
+    background-position: 50% 0%;
+  }
 }
 
 .card-ghost {
   background: linear-gradient(to top, #6a3093, #a044ff);
-}
-
-.card-ghost .card-info {
-  background-color: #7b62a3;
+  .card-info {
+    background-color: #7b62a3;
+  }
 }
 
 .card-grass {
   background: linear-gradient(45deg, #56ab2f, #a8e063);
-}
-
-.card-grass .card-info {
-  background: #9bcc50;
+  .card-info {
+    background: #9bcc50;
+  }
 }
 
 .card-ground {
   background: linear-gradient(to bottom, #f7de3f 0%, #ab9842 100%);
-}
-
-.card-ground .card-info {
-  background: #ab9842;
+  .card-info {
+    background: #ab9842;
+  }
 }
 
 .card-ice {
-  background: linear-gradient(230deg, rgba(202, 234, 246, 1) 0%, rgba(160, 234, 241, 1) 46%, rgba(111, 184, 235, 1) 100%);
-}
-
-.card-ice .card-info {
-  background: #51c4e7;
+  background: linear-gradient(
+    230deg,
+    rgba(202, 234, 246, 1) 0%,
+    rgba(160, 234, 241, 1) 46%,
+    rgba(111, 184, 235, 1) 100%
+  );
+  .card-info {
+    background: #51c4e7;
+  }
 }
 
 .card-normal {
   background: linear-gradient(110deg, #fdbb2d 0%, #f2994a 100%);
   box-shadow: 0px 5px 20px -10px #3a1c71;
-}
-
-.card-normal .card-info {
-  background-color: #c08a53;
+  .card-info {
+    background-color: #c08a53;
+  }
 }
 
 .card-poison {
   background: linear-gradient(to bottom, #f953c6, #b91d73);
-}
-
-.card-poison .card-info {
-  background: #b97fc9;
+  .card-info {
+    background: #b97fc9;
+  }
 }
 
 .card-psychic {
-  background: linear-gradient(140deg, rgba(255, 167, 249, 1) 0%, rgba(255, 44, 195, 1) 39%, rgba(255, 227, 167, 1) 100%);
-}
-
-.card-psychic .card-info {
-  background: #f366b9;
+  background: linear-gradient(
+    140deg,
+    rgba(255, 167, 249, 1) 0%,
+    rgba(255, 44, 195, 1) 39%,
+    rgba(255, 227, 167, 1) 100%
+  );
+  .card-info {
+    background: #f366b9;
+  }
 }
 
 .card-rock {
   background: linear-gradient(to top, #3c3b3f, #a38c21);
-}
-
-.card-rock .card-info {
-  background: #a38c21;
+  .card-info {
+    background: #a38c21;
+  }
 }
 
 .card-steel {
   background: linear-gradient(to top, #c3cbdc 0%, #edf1f4 100%);
-}
-
-.card-steel .card-info {
-  background: #9eb7b8;
+  .card-info {
+    background: #9eb7b8;
+  }
 }
 
 .card-water {
   background: linear-gradient(to bottom, #74ebd5, #acb6e5);
-}
-
-.card-water .card-info {
-  background-color: #4592c4;
+  .card-info {
+    background-color: #4592c4;
+  }
 }
