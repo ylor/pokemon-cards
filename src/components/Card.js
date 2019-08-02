@@ -23,21 +23,20 @@ export default function Card(props) {
         <h3 className="card-info card-num">#{padNumber(mon.id)}</h3>
         <h3 className="card-info card-type">{mon.type[0]}</h3>
         <div className="card-stats">
-          <p>
-            Attack <span>{mon.base.attack}</span>
-          </p>
-          <p>
-            Sp. Attack <span>{mon.base.sp_attack}</span>
-          </p>
-          <p>
-            Defense <span>{mon.base.defense}</span>
-          </p>
-          <p>
-            Sp. Defense <span>{mon.base.sp_defense}</span>
-          </p>
-          <p>
-            Speed <span>{mon.base.speed}</span>
-          </p>
+          <div className="stat-names">
+            <p>Attack</p>
+            <p>Defense</p>
+            <p>Sp. Attack</p>
+            <p>Sp. Defense</p>
+            <p>Speed</p>
+          </div>
+          <div className="stat-values">
+            <p>{mon.base.attack}</p>
+            <p>{mon.base.defense}</p>
+            <p>{mon.base.sp_attack}</p>
+            <p>{mon.base.sp_defense}</p>
+            <p>{mon.base.speed}</p>
+          </div>
         </div>
       </div>
     </div>
