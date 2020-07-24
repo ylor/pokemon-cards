@@ -4,12 +4,16 @@ import { padNumber } from "../Utils";
 export default function Card(props) {
   const { mon } = props;
   return (
-    <div key={mon.id} id={mon.id} className={`card card-${mon.type[0]} lazy`}>
+    <div
+      key={mon.id}
+      id={mon.id}
+      className={`card card-${mon.type[0].toLowerCase()} lazy`}
+    >
       <div className="card-title">
-        <h3 className="card-name">{mon.name}</h3>
+        <h3 className="card-name">{mon.name.english}</h3>
         <div>
           <span className="card-hp-label">HP&nbsp;</span>
-          <h3 className="card-hp">{mon.base.hp}</h3>
+          <h3 className="card-hp">{mon.base.HP}</h3>
         </div>
       </div>
       <div className="card-image-container">
@@ -31,11 +35,11 @@ export default function Card(props) {
             <p>Speed</p>
           </div>
           <div className="stat-values">
-            <p>{mon.base.attack}</p>
-            <p>{mon.base.defense}</p>
-            <p>{mon.base.sp_attack}</p>
-            <p>{mon.base.sp_defense}</p>
-            <p>{mon.base.speed}</p>
+            <p>{mon.base.Attack}</p>
+            <p>{mon.base.Defense}</p>
+            <p>{mon.base["Sp. Attack"]}</p>
+            <p>{mon.base["Sp. Defense"]}</p>
+            <p>{mon.base.Speed}</p>
           </div>
         </div>
       </div>

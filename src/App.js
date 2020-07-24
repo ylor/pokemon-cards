@@ -21,7 +21,7 @@ export default function App() {
     switch (gen) {
       case 0:
         firstMon = 1;
-        lastMon = 809;
+        lastMon = 893;
         break;
       case 1:
         firstMon = 1;
@@ -51,11 +51,15 @@ export default function App() {
         firstMon = 718;
         lastMon = 809;
         break;
+      case 8:
+        firstMon = 810;
+        lastMon = 893;
+        break;
       default:
         firstMon = 1;
         lastMon = 151;
     }
-    setPokedex(data.filter(mon => mon.id >= firstMon && mon.id <= lastMon));
+    setPokedex(data.filter((mon) => mon.id >= firstMon && mon.id <= lastMon));
     console.log(pokedex);
   }
 
@@ -67,8 +71,8 @@ export default function App() {
     { id: 5, name: "Unova" },
     { id: 6, name: "Kalos" },
     { id: 7, name: "Alola" },
-    //{ id: "8", name: "Galar" },
-    { id: 0, name: "National" }
+    { id: 8, name: "Galar" },
+    { id: 0, name: "National" },
   ];
 
   const buttons = generations.map(({ id, name }) => {
@@ -89,7 +93,7 @@ export default function App() {
       <Header />
       <nav>{buttons}</nav>
       <div className="wrapper">
-        {pokedex.map(mon => (
+        {pokedex.map((mon) => (
           <Card key={mon.id} mon={mon} />
         ))}
       </div>
